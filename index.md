@@ -27,7 +27,7 @@ Spend less time reinventing the wheel, and more time running your lab.
 
 {% include section.html full=true %}
 
-{% include banner.html image="https://github.com/NiSP-Q/NiSP-Q.github.io/tree/main/images//banner.jpg" %}
+{% include banner.html image="https://github.com/NiSP-Q/NiSP-Q.github.io/tree/main/images/banner.jpg" %}
 
 {% include section.html %}
 
