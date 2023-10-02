@@ -1,0 +1,47 @@
+- title: Proof of Erasure
+  subtitle: Secure Personal Data Deletion with Public Verifiability
+  group: featured 
+  image: images/datadeletion.jpg
+  link: erasure/eresult.html
+  description: Customers increasingly are asking service providers that maintain their digital information to delete their data. However, the current legislative landscape raises a number of questions, notably with regard to the right to erasure of Canadians. This project aims to acquire knowledge and understanding of data deletion policies, as well as explore effective approaches for secure data deletion and advanced designs of proof of erasure. In particular, the project will study the extent to which the right of data deletion is recognized by various privacy laws and regulations, such as the Personal Information Protection and Electronic Documents Act (PIPEDA), and analyze how that right is deployed on existing data platforms. It will also identify through an online survey and a case study the secure personal data deletion policies expected by the public.
+  repo: greenelab/lab-website-template
+  tags:
+    - Privacy Laws, Data Deletion
+
+- title: Cool Package
+  subtitle: a subtitle
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+- title: Cool Tutorial
+  group: more
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - publication
+
+- title: Cool Web App
+  group: more
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+
+- title: Cool Web Server
+  group: more
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software

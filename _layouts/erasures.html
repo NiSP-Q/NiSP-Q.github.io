@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{%-
+  include project-info.html
+  authors=page.authors
+  date=page.date
+  tags=page.tags
+-%}
+
+{% include section.html %}
+
+{{ content }}
+
+{% include section.html %}
+
+{%- include post-nav.html post=page -%}

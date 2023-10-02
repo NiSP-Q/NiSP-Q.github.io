@@ -1,0 +1,20 @@
+<div class="project_info">
+    <span>
+        <i class="fas fa-feather-alt"></i>
+        Researchers: &nbsp;&nbsp;
+        {%- for author in include.authors -%}
+        {%- if author.member -%}
+        <a href="{{ author.member | prepend: 'members/' | relative_url }}">
+            {%- endif -%}
+            {{- author.name -}}
+            {%- if author.member -%}
+        </a>
+        {%- endif -%}
+        {%- unless forloop.last -%}, &nbsp; {% endunless %}
+        {%- endfor -%}
+    </span>
+</div>
+
+{%- if include.tags -%}
+  {% include tags.html tags=include.tags link="blog" %}
+{%- endif -%}

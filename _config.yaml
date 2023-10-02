@@ -1,0 +1,89 @@
+title: NiSP-Q
+logo: images/logo.svg
+header: images/background.jpg
+footer: images/background.jpg
+links:
+  email: jianbing.ni@queensu.ca
+  google-scholar: ETJoidYAAAAJ
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: default
+  - scope:
+      type: members
+    values:
+      layout: member
+  - scope:
+      type: posts
+    values:
+      layout: post
+  - scope:
+      type: erasure
+    values:
+      layout: erasures
+  - scope:
+      type: sresult
+    values:
+      layout: erasures
+  - scope:
+      type: survey
+    values:
+      layout: erasures
+  - scope:
+      type: Depresult
+    values:
+      layout: erasures
+  - scope:
+      type: plaw
+    values:
+      layout: erasures
+
+      
+collections:
+  members:
+    output: true
+  erasure:
+    output: true
+  sresult:
+    output: true
+  survey:
+    output: true
+  Depresult:
+    output: true
+  plaw:
+    output: true
+  
+sass:
+  sass_dir: css
+highlighter: rouge
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+theme: null
+Transform: AWS::Serverless-2016-10-31
+Resources:
+  Function:
+    Type: AWS::Serverless::Function
+    Properties:
+      Description: !Sub
+        - Stack ${AWS::StackName} Function ${ResourceName}
+        - ResourceName: Function
+      CodeUri: src/Function
+      Handler: index.handler
+      Runtime: nodejs18.x
+      MemorySize: 3008
+      Timeout: 30
+      Tracing: Active
+  FunctionLogGroup:
+    Type: AWS::Logs::LogGroup
+    DeletionPolicy: Retain
+    Properties:
+      LogGroupName: !Sub /aws/lambda/${Function}
