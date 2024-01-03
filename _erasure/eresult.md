@@ -32,6 +32,8 @@ one of the reasons that the PIPEDA [2](https://laws-lois.justice.gc.ca/eng/acts/
 project, we aim to understand real needs of customers on the right to erasure and design solutions
 to achieve secure personal data deletion with public verifiability.
 
+For more detail, please see our technical report [Understanding the Right to be Forgotten and its Deployment](OPC Contribution.pdf).
+
 
 
 {% include section.html %}
