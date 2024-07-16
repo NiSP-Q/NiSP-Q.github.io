@@ -14,6 +14,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: professor"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd"
 %}
 {%
