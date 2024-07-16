@@ -44,8 +44,8 @@ search:
   
 CV:
   icon: fas fa-database
-  text: Data
-  tooltip: Data
+  text: CV
+  tooltip: CV
   link: $LINK
 
 
