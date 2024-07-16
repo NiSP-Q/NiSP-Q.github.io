@@ -149,3 +149,9 @@ package:
   text: Package
   tooltip: Package
   link: $LINK
+  
+CV:
+  icon: fas fa-database
+  text: Data
+  tooltip: Data
+  link: $LINK

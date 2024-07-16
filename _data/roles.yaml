@@ -26,6 +26,9 @@ phd_1:
   icon: fas fa-graduation-cap
   text: PhD Student
 
-  phd_2:
+phd_2:
   icon: fas fa-graduation-cap
+  text: PhD Student
+Professor:
+  icon: fas fa-microscope
   text: PhD Student
