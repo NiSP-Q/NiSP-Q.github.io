@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 {% include section.html %}
-##
+## Team
 {%
   include list.html
   data="members"

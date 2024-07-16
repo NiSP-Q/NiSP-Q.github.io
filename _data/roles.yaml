@@ -1,7 +1,3 @@
-pi:
-  icon: fas fa-microscope
-  text: Principal Investigator
-
 postdoc:
   icon: fas fa-glasses
   text: Postdoctoral Researcher
