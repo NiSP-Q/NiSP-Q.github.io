@@ -30,6 +30,6 @@ phd_2:
   icon: fas fa-graduation-cap
   text: PhD Student
   
-Professor:
+professor:
   icon: fas fa-microscope
   text: Professor

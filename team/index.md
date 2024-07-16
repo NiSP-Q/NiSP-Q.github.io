@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 5
   tooltip: About our team
 ---
 
@@ -14,7 +14,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: professor"
 %}
 
 {%
