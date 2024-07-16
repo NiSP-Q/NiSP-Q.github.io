@@ -8,8 +8,7 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 {% include section.html %}
-
-## Current Team Members
+##
 {%
   include list.html
   data="members"
@@ -17,6 +16,7 @@ nav:
   filters="role: professor"
 %}
 
+## Current Team Members
 {%
   include list.html
   data="members"
