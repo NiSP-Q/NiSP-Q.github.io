@@ -14,7 +14,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: Professor"
+  filters="role: phd"
 %}
 
 {%
