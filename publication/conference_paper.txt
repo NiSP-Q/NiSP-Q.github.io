@@ -1,0 +1,40 @@
+Q. Le*, F, Chan, J. Ni, S. Yam, and N. Lu, “Defending Against High-Intensity Adversarial Perturbations in Deep Neural Networks: A Robust Swin Transformer Approach,” The 7th International Conference on AI in Information and Communication (ICAIIC 2025), Fukuoka, Japan, February 18-21, 2025. (Excellent Paper Award)
+X. Li*, X. Wu*, and J. Ni, “Accelerating Secure and Verifiable Data Deletion in Cloud Storage via SGX and Blockchain,” IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, December 8-12, 2024.
+N. Wang, J. Chen, J. Ni, L. Chen, and H. Zhou, “Leveraging Group Secret Sharing Technology for FD-RAN: A Lightweight AKA Mechanism,” The IEEE 99th Vehicular Technology Conference (VTC 2024-Fall), Singapore, June 24-27, 2024. 
+X. Li*, M. He*, and J. Ni, “Secure and Privacy-preserving Network Slicing in 3GPP 5G System Architecture,” The 12th IEEE/CIC International Conference on Communications in China (ICCC 2023), Dalian, China, August 10-12, 2023.
+J. Zhao*, X. Li*, and J. Ni, “Privacy-Preserving Model Aggregation for Asynchronous Federated Learning” The 12th IEEE/CIC International Conference on Communications in China (ICCC 2023), Dalian, China, August 10-12, 2023. 
+K. Khalafi, J. Ni, and N. Lu, “Online Convex Optimization for Dynamic RAN Slicing with Quality of Service,” The 12th IEEE/CIC International Conference on Communications in China (ICCC 2023) Workshop on Edge Intelligence for 6G Networks, Dalian, China, August 10-12, 2023. 
+B. Mosher*, X. Li*, Y. He, and J. Ni, “Verifiable and Privacy-preserving Ad Exchange for Targeted Advertising,” The 20th Annual International Conference on Privacy, Security & Trust, Copenhagen, Denmark, 21-23 August 2023.
+B. Mosher and J. Ni, “PAEEA: Privacy-Preserving Online Ad Exchange with Efficient Auction for Smart Advertising,” Proc. of ICC 2023, Rome, Italy, 28 May-01 June 2023.
+Y. Liu*, J. Ni, and M. Zulkernine, “AT-CBDC: Achieving Anonymity and Traceability in Central Bank Digital Currency,” Proc. of ICC 2022, Seoul, South Korea, 16–20 May 2022. 
+Y. He, F. Wang, X. Deng, J. Ni, J. Feng, and S. Liu, “Ordinal Data Stream Collection with Condensed Local Differential Privacy,” Proc. of HPCC, Chengdu, China, 18-20 December, 2022. (Outstanding Paper Award)
+X. Li, Y. Liu*, J. Ni, and Y. He, “Securing E-Petition: A Privacy-Preserving Fine-Grained Electronic Petition System for Health and Political Petitions,” Proc. of ICC 2022, Seoul, South Korea, 16–20 May 2022.
+J. Zhou, Z. Su, J. Ni，Y. Wang, Y. Pan, and R. Xin, “Personalized Privacy-Preserving Federated Learning: Optimized Trade-off Between Utility and Privacy,” Proc. of GLOBECOM 2022, Rio de Janeiro, Brazil, 4-8 December 2022.
+L. Liu, C. Huang, D. Zhu, D. Liu, J. Ni, and X. Shen, “Secure and Distributed Access Control for Dynamic Pervasive Edge Computing Services,” Proc. of GLOBECOM 2022, Rio de Janeiro, Brazil, 4-8 December 2022.
+Z. Peng, Y. He, Z. Sun, J. Ni, B. Niu, and X. Deng, “Crafting Text Adversarial Examples to Attack the Deep-Learning-based Malicious URL Detection,” Proc. of ICC 2022, Seoul, South Korea, 16–20 May 2022.
+M. He*, X. Li#, J. Ni, and H. Yang, “Balancing Efficiency and Security for Network Access Control in Space-Air-Ground Integrated Networks,” Proc. of PST 2021, Auckland, New Zealand, Dec. 13-15, 2021. 
+Y. Pan, J. Ni, and Z. Su, “FL-PATE: Differentially Private Federated Learning with Knowledge Transfer,” Proc. of IEEE GLOBECOM 2021, Madrid, Spain, Dec. 7-11, 2021.
+M. He*, J. Ni, D. Liu, H. Yang, and X. Shen, “Private, Fair, and Verifiable Aggregate Statistics for Mobile Crowdsensing in Blockchain Era,” Proc. of IEEE/CIC ICCC 2020, Chongqing, China, Aug. 9-11, 2020. (Best Paper Award)
+C. Zhang, L. Zhu, C. Xu, J. Ni, C. Huang, and X. Shen, “Efficient and Privacy-Preserving Non-Interactive Truth Discovery for Mobile Crowdsensing,” Proc. of IEEE GLOBECOM 2020, Taipei, Taiwan, Dec. 7-11, 2020.
+L. Xue, D. Liu, J. Ni, X. Lin, and X. Shen, “Consent-based Privacy-preserving Decision Tree Evaluation,” Proc. of IEEE ICC 2020, Dublin, Ireland, June 7-11, 2020.
+D. Liu, J. Ni, X. Lin, and X. Shen, “Towards Private and Efficient Ad Impression Aggregation in Mobile Advertising,” Proc. of IEEE ICC 2019, Shanghai, China, May 20-24, 2019.
+C. Huang, J. Ni, R. Lu, and X. Shen, “Online Advertising with Verifiable Fairness,” Proc. of IEEE ICC 2019, Shanghai, China, May 20-24, 2019.
+C. Huang, J. Ni, R. Lu, and X. Shen, “Exploring Anonymous User Review: Linkability Analysis with Machine Learning,” Proc. of IEEE GLOBECOM 2019, Waikoloa, HI, USA, Dec. 9-13, 2019.
+L. Xue, J. Ni, C. Huang, X. Lin, and X. Shen, “Forward Secure and Fine-grained Data Sharing for Mobile Crowdsensing,” Proc. of PST 2019, Fredericton, NB, Canada, August 26-28, 2019.
+J. Liang, Z. Qin, J. Ni, X. Lin, and X. Shen, “Efficient and Privacy-Preserving Outsourced SVM Classification in Public Cloud,” Proc. of IEEE ICC 2019, Shanghai, China, May 20-24, 2019.
+W. Wang, Z. Ying, J. Ni, X. Lin, and X. Shen, “Against Pilot Spoofing Attack with Double Channel Training in Massive MIMO NOMA Systems,” Proc. of IEEE ICC 2019, Shanghai, China, May 20-24, 2019.
+D. Liu, J. Ni, H. Li, X. Lin, and X. Shen, “Efficient and Privacy-preserving Ad Conversion for V2X-assisted Proximity Marketing,” Proc. of IEEE MASS 2018, Chengdu, China, Oct. 9-12, 2018. (Best Paper Award)
+D. Liu, J. Ni, H. Li, and X. Shen, “Achieving Adaptive Linkability for Cellular V2X Group Communications in 5G,” Proc. of IEEE GLOBECOM 2018, Abu Dhabi, UAE, Dec. 9-13, 2018.
+Y. He, J. Ni, B. Niu, F. Li, and X. Shen, “Privacy-preserving Ride Clustering for Customized-bus Sharing: A Fog-assisted Approach,” Proc. of WiOpt 2018, Shanghai, China, May 7-11, 2018.
+C. Huang, D. Liu, J. Ni, R. Lu, and X. Shen, “Reliable and Privacy-Preserving Selective Data Aggregation for Fog-Based IoT,” Proc. of IEEE ICC 2018, Kansas City, MO, USA, May 20-24, 2018. (Best Paper Award)
+J. Ni, X. Lin, and X. Shen, “Privacy-Preserving Data Forwarding in VANETs: A Personal-Social Behavior Based Approach,” Proc. of IEEE GLOBECOM 2017, Singapore, Dec. 4--8, 2017. (Best Paper Award)
+J. Ni, X. Lin, Q. Xia, and X. Shen, “Dual-Anonymous Reward Distribution for Mobile Crowdsensing,” Proc. of IEEE ICC 2017, Paris, France, May 21--25, 2017.
+J. Ni, K. Zhang, X. Lin, Q. Xia, and X. Shen, “Privacy-Preserving Mobile Crowdsensing for Location-Based Applications,” Proc. of IEEE ICC 2017, Paris, France, May 21--25, 2017.
+A. Alamer, J. Ni, X. Lin, and X. Shen, “Location Privacy-Aware Task Recommendation for Spatial Crowdsourcing,” Proc. of WCSP 2017, Nanjing, China, Oct. 11--13, 2017. (Best Paper Award)
+J. Ni, K. Zhang, X. Lin, Y. Yu, and X. Shen, “CPARN: Cloud-Based Privacy-Preserving Parking Navigation in Vehicular Ad Hoc Networks,” Proc. of EAI SECURECOMM 2016, Guangzhou, China, Oct. 10--12, 2016. (Best Paper Award)
+J. Ni, X. Lin, K. Zhang, and Y. Yu, “Secure and Deduplicated Spatial Crowdsourcing: A Fog-Based Approach,” Proc. of IEEE GLOBECOM 2016, Washington D.C., USA, Dec. 4--8, 2016.
+J. Ni, X. Lin, K. Zhang, and X. Shen, “Privacy-Preserving Real-Time Navigation System Using Vehicular Crowdsourcing,” Proc. of IEEE VTC-Fall 2016, Montreal, Canada, Sept. 18--21, 2016. (Invited Paper)
+J. Ni, X. Lin, K. Zhang, Y. Yu, and X. Shen, “Secure Outsourced Data Transfer with Integrity Verification in Cloud Storage,” Proc. of IEEE/CIC ICCC 2016, Chengdu, China, Jul. 27--29, 2016.
+J. Ni, K. Zhang, X. Lin, H. Yang, and X. Shen, “AMA: Anonymous Mutual Authentication with Traceability in Carpooling Systems,” Proc. of IEEE ICC 2016, Kuala Lumpur, Malaysia, May 23--27, 2016.
+J. Ni, X. Lin, K. Zhang, Y. Yu, and X. Shen, “Device-Invisible Two-Factor Authenticated Key Agreement for BYOD,” Proc. of IEEE/CIC ICCC 2016, Chengdu, China, Jul. 27--29, 2016.
+J. Ni, K. Zhang, X. Lin, and X. Shen, “EDAT: Efficient Data Aggregation without TTP for Privacy-Assured Smart Metering,” Proc. of IEEE ICC 2016, Kuala Lumpur, Malaysia, May 23--27, 2016.

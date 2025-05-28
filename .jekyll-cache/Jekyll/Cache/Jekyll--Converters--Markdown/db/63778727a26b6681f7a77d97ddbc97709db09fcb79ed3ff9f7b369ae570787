@@ -1,0 +1,10 @@
+I"
+<p>Our research is <a href="https://arxiv.org/abs/2307.04316">Accelerating Secure and Verifiable Data Deletion in Cloud Storage via SGX and Blockchain</a>
+In this study, we introduce SevDel, a robust data deletion mechanism that ensures both security and verifiability. 
+This system capitalizes on zero-knowledge proof to verify the encryption of outsourced data without necessitating the retrieval of ciphertexts, 
+while the deletion of encryption keys is safeguarded through Intel SGX. 
+SevDel equips a secure cloud storage environment with interfaces specifically designed to perform data encryption and decryption. 
+Moreover, it employs a smart contract to ensure that the cloud service provider’s operations align with the service level agreements made with data owners,
+including potential penalties if the provider improperly discloses data stored on their servers. Evaluations conducted on real-world workloads 
+show that SevDel not only efficiently verifies data deletion but also significantly enhances bandwidth savings.</p>
+:ET

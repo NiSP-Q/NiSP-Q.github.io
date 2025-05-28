@@ -2,7 +2,7 @@
 name: Xiangman Li
 image: images/member-xiangmanli_1.jpg
 description: Network and system security 
-role: phd_1
+role: phd_2
 links:
   email: xiangman.li@queensu.ca
   google-scholar: O60TTbgAAAAJ&hl=en

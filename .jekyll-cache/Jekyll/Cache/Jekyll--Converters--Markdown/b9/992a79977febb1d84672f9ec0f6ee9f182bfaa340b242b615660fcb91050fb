@@ -1,0 +1,178 @@
+I">#<h1 id="publication"><i class="fas fa-microscope"></i>Publication</h1>
+
+<!-- ## Highlighted -->
+
+<!-- section break -->
+
+<div class="search_box">
+  <input class="search_input" oninput="onSearchInput(this)" placeholder="Search" title="Search content on this page" />
+  <button disabled="" data-tooltip="Clear search" onclick="onSearchClear()">
+    <i class="fas fa-search"></i>
+  </button>
+</div>
+
+<div class="search_info"></div>
+
+<h3 id="2020">2020</h3>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://doi.org/gg7m48">
+        <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.1016/j.csbj.2020.05.017" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://doi.org/gg7m48">
+        Constructing knowledge graphs and their biomedical applications
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      David N. Nicholson, Casey S. Greene
+    </div><div class="citation_details">
+      Computational and Structural Biotechnology Journal&nbsp; · &nbsp;02 Jun 2020
+    </div><div class="tags" data-link="/publication/"><a href="/publication/?search=&quot;tag: knowledge graphs&quot;" class="tag" data-tooltip="Show items with the tag &quot;knowledge graphs&quot;">knowledge graphs</a></div><div class="citation_links"><a class="link" href="https://greenelab.github.io/knowledge-graph-review/" data-icon="true" data-text="true" data-style=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="-400 -300 800 600" height="1.5em" style="overflow: visible">
+  <!-- logo -->
+  <g transform="scale(0.9)">
+    <!-- M -->
+    <path class="letter" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50" d="
+        M -125 125 
+        L -125 -125
+        L 0 45
+        L 125 -125
+        L 125 125
+      " />
+    <!-- left bracket -->
+    <path class="bracket" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50" d="
+        M -200 -250
+        L -330 0 
+        L -200 250
+      " />
+    <!-- right bracket -->
+    <path class="bracket" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50" d="
+        m 200 250 
+        L 330 0
+        L 200 -250
+      " />
+    <!-- left line -->
+    <path class="line" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="50" d="
+        M -330 0
+        L -370 0
+      " />
+    <!-- right line -->
+    <path class="line" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="50" d="
+        M 330 0
+        L 370 0
+      " />
+    <!-- left circle -->
+    <circle class="circle" cx="-455" cy="0" r="30" fill="none" stroke="currentColor" stroke-width="30" />
+    <!-- right circle -->
+    <circle class="circle" cx="455" cy="0" r="30" fill="none" stroke="currentColor" stroke-width="30" />
+  </g>
+</svg>
+<span>Manubot</span></a></div></div>
+</div>
+<h3 id="2019">2019</h3>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://doi.org/c7np">
+        <img src="https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pcbi.1007128.g001&amp;rev=2" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.1371/journal.pcbi.1007128" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://doi.org/c7np">
+        Open collaborative writing with Manubot
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      Daniel S. Himmelstein, Vincent Rubinetti, David R. Slochower, Dongbo Hu, Venkat S. Malladi, Casey S. Greene, Anthony Gitter
+    </div><div class="citation_details">
+      PLOS Computational Biology&nbsp; · &nbsp;24 Jun 2019
+    </div><div class="tags" data-repo="greenelab/meta-review" data-link="/publication/"></div><div class="citation_links"><a class="link" href="https://greenelab.github.io/meta-review/" data-icon="true" data-text="true" data-style=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="-400 -300 800 600" height="1.5em" style="overflow: visible">
+  <!-- logo -->
+  <g transform="scale(0.9)">
+    <!-- M -->
+    <path class="letter" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50" d="
+        M -125 125 
+        L -125 -125
+        L 0 45
+        L 125 -125
+        L 125 125
+      " />
+    <!-- left bracket -->
+    <path class="bracket" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50" d="
+        M -200 -250
+        L -330 0 
+        L -200 250
+      " />
+    <!-- right bracket -->
+    <path class="bracket" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50" d="
+        m 200 250 
+        L 330 0
+        L 200 -250
+      " />
+    <!-- left line -->
+    <path class="line" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="50" d="
+        M -330 0
+        L -370 0
+      " />
+    <!-- right line -->
+    <path class="line" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="50" d="
+        M 330 0
+        L 370 0
+      " />
+    <!-- left circle -->
+    <circle class="circle" cx="-455" cy="0" r="30" fill="none" stroke="currentColor" stroke-width="30" />
+    <!-- right circle -->
+    <circle class="circle" cx="455" cy="0" r="30" fill="none" stroke="currentColor" stroke-width="30" />
+  </g>
+</svg>
+<span>Manubot</span></a><a class="link" href="https://github.com/greenelab/meta-review" data-icon="true" data-text="true" data-style=""><i class="fas fa-code fa-lg "></i><span>Source</span></a></div></div>
+</div>
+<h3 id="2018">2018</h3>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://doi.org/ckcj">
+        <img src="https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.7554/eLife.32822" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://doi.org/ckcj">
+        Sci-Hub provides access to nearly all scholarly literature
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      Daniel S Himmelstein, Ariel Rodriguez Romero, Jacob G Levernier, Thomas Anthony Munro, Stephen Reid McLaughlin, Bastian Greshake Tzovaras, Casey S Greene
+    </div><div class="citation_details">
+      eLife&nbsp; · &nbsp;01 Mar 2018
+    </div><div class="citation_links"><a class="link" href="https://doi.org/10.7287/peerj.preprints.3100v1" data-icon="true" data-text="true" data-style=""><i class="far fa-eye fa-lg "></i><span>Preprint</span></a><a class="link" href="https://greenelab.github.io/scihub-manuscript/" data-icon="true" data-text="true" data-style=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="-400 -300 800 600" height="1.5em" style="overflow: visible">
+  <!-- logo -->
+  <g transform="scale(0.9)">
+    <!-- M -->
+    <path class="letter" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50" d="
+        M -125 125 
+        L -125 -125
+        L 0 45
+        L 125 -125
+        L 125 125
+      " />
+    <!-- left bracket -->
+    <path class="bracket" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50" d="
+        M -200 -250
+        L -330 0 
+        L -200 250
+      " />
+    <!-- right bracket -->
+    <path class="bracket" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50" d="
+        m 200 250 
+        L 330 0
+        L 200 -250
+      " />
+    <!-- left line -->
+    <path class="line" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="50" d="
+        M -330 0
+        L -370 0
+      " />
+    <!-- right line -->
+    <path class="line" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="50" d="
+        M 330 0
+        L 370 0
+      " />
+    <!-- left circle -->
+    <circle class="circle" cx="-455" cy="0" r="30" fill="none" stroke="currentColor" stroke-width="30" />
+    <!-- right circle -->
+    <circle class="circle" cx="455" cy="0" r="30" fill="none" stroke="currentColor" stroke-width="30" />
+  </g>
+</svg>
+<span>Manubot</span></a><a class="link" href="https://github.com/greenelab/scihub-manuscript" data-icon="true" data-text="true" data-style=""><i class="fas fa-code fa-lg "></i><span>Manuscript source</span></a><a class="link" href="https://github.com/greenelab/scihub" data-icon="true" data-text="true" data-style=""><i class="fas fa-code fa-lg "></i><span>Analyses source</span></a></div></div>
+</div>
+:ET

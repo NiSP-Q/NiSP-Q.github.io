@@ -1,0 +1,620 @@
+# 自动生成的引用文件（包含网络搜索结果）
+# 请检查并验证自动找到的DOI和链接
+
+- id: doi:10.1109/icaiic64266.2025.10920873
+  date: 2025-01-01
+  tags:
+    - communications
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Defending Against High-Intensity Adversarial Perturbations in Deep Neural Networks: A Robust Swin Transformer Approach
+  # 作者: Q. Le, Chan, J. Ni, S. Yam, and N. Lu
+  # 期刊/会议: The 7th International Conference on AI in Information and Communication (ICAIIC 2025), Fukuoka, Japan, February 18-21
+
+- id: doi:10.1109/globecom52923.2024.10901101
+  date: 2024-01-01
+  tags:
+    - IEEE
+    - security
+    - communications
+    - machine learning
+    - IoT
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Accelerating Secure and Verifiable Data Deletion in Cloud Storage via SGX and Blockchain
+  # 作者: X. Li, X. Wu, and J. Ni
+  # 期刊/会议: IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, December 8-12
+
+- id: doi:10.1109/vtc2024-spring62846.2024.10683685
+  date: 2024-01-01
+  tags:
+    - IEEE
+    - communications
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Leveraging Group Secret Sharing Technology for FD-RAN: A Lightweight AKA Mechanism
+  # 作者: N. Wang, J. Chen, J. Ni, L. Chen, and H. Zhou
+  # 期刊/会议: The IEEE 99th Vehicular Technology Conference (VTC 2024-Fall), Singapore, June 24-27
+
+- id: doi:10.1109/iccc57788.2023.10233451
+  date: 2023-01-01
+  tags:
+    - IEEE
+    - security
+    - communications
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Secure and Privacy-preserving Network Slicing in 3GPP 5G System Architecture
+  # 作者: X. Li, M. He, and J. Ni
+  # 期刊/会议: The 12th IEEE/CIC International Conference on Communications in China (ICCC 2023), Dalian, China, August 10-12
+
+- id: doi:10.1109/iccc57788.2023.10233295
+  date: 2023-01-01
+  tags:
+    - IEEE
+    - security
+    - communications
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Privacy-Preserving Model Aggregation for Asynchronous Federated Learning
+  # 作者: J. Zhao, X. Li, and J. Ni
+  # 期刊/会议: The 12th IEEE/CIC International Conference on Communications in China (ICCC 2023), Dalian, China, August 10-12
+
+- id: doi:10.1109/icccworkshops57813.2023.10233710
+  date: 2023-01-01
+  tags:
+    - IEEE
+    - communications
+    - machine learning
+    - IoT
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Online Convex Optimization for Dynamic RAN Slicing with Quality of Service
+  # 作者: K. Khalafi, J. Ni, and N. Lu
+  # 期刊/会议: The 12th IEEE/CIC International Conference on Communications in China (ICCC 2023) Workshop on Edge Intelligence for 6G Networks, Dalian, China, August 10-12
+
+- id: doi:10.1109/pst58708.2023.10320165
+  date: 2023-01-01
+  tags:
+    - security
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Verifiable and Privacy-preserving Ad Exchange for Targeted Advertising
+  # 作者: B. Mosher, X. Li, Y. He, and J. Ni
+  # 期刊/会议: The 20th Annual International Conference on Privacy, Security & Trust, Copenhagen, Denmark, 21-23 August 2023.
+
+- id: doi:10.1109/icc45041.2023.10279082
+  date: 2023-01-01
+  tags:
+    - security
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: PAEEA: Privacy-Preserving Online Ad Exchange with Efficient Auction for Smart Advertising
+  # 作者: B. Mosher and J. Ni
+  # 期刊/会议: Proc. of ICC 2023, Rome, Italy, 28 May-01 June 2023.
+
+- id: doi:10.1109/icc45855.2022.9839154
+  date: 2022-01-01
+  tags:
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: AT-CBDC: Achieving Anonymity and Traceability in Central Bank Digital Currency
+  # 作者: Y. Liu, J. Ni, and M. Zulkernine
+  # 期刊/会议: Proc. of ICC 2022, Seoul, South Korea, 16–20 May 2022.
+
+- id: doi:10.1109/hpcc-dss-smartcity-dependsys57074.2022.00102
+  date: 2022-01-01
+  tags:
+    - security
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Ordinal Data Stream Collection with Condensed Local Differential Privacy
+  # 作者: Y. He, F. Wang, X. Deng, J. Ni, J. Feng, and S. Liu
+  # 期刊/会议: Proc. of HPCC, Chengdu, China, 18-20 December
+
+- id: doi:10.1109/icc45855.2022.9838995
+  date: 2022-01-01
+  tags:
+    - security
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Securing E-Petition: A Privacy-Preserving Fine-Grained Electronic Petition System for Health and Political Petitions
+  # 作者: X. Li, Y. Liu, J. Ni, and Y. He
+  # 期刊/会议: Proc. of ICC 2022, Seoul, South Korea, 16–20 May 2022.
+
+- id: doi:10.1109/globecom48099.2022.10000793
+  date: 2022-01-01
+  tags:
+    - security
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Personalized Privacy-Preserving Federated Learning: Optimized Trade-off Between Utility and Privacy
+  # 作者: J. Zhou, Z. Su, J. Ni，Y. Wang, Y. Pan, and R. Xin
+  # 期刊/会议: Proc. of GLOBECOM 2022, Rio de Janeiro, Brazil, 4-8 December 2022.
+
+- id: doi:10.1109/globecom48099.2022.10000715
+  date: 2022-01-01
+  tags:
+    - security
+    - IoT
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Secure and Distributed Access Control for Dynamic Pervasive Edge Computing Services
+  # 作者: L. Liu, C. Huang, D. Zhu, D. Liu, J. Ni, and X. Shen
+  # 期刊/会议: Proc. of GLOBECOM 2022, Rio de Janeiro, Brazil, 4-8 December 2022.
+
+- id: doi:10.1109/icc45855.2022.9838536
+  date: 2022-01-01
+  tags:
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Crafting Text Adversarial Examples to Attack the Deep-Learning-based Malicious URL Detection
+  # 作者: Z. Peng, Y. He, Z. Sun, J. Ni, B. Niu, and X. Deng
+  # 期刊/会议: Proc. of ICC 2022, Seoul, South Korea, 16–20 May 2022.
+
+- id: doi:10.1109/pst52912.2021.9647772
+  date: 2021-01-01
+  tags:
+    - security
+    - communications
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Balancing Efficiency and Security for Network Access Control in Space-Air-Ground Integrated Networks
+  # 作者: M. He, X. Li#, J. Ni, and H. Yang
+  # 期刊/会议: Proc. of PST 2021, Auckland, New Zealand, Dec. 13-15
+
+- id: doi:10.1109/globecom46510.2021.9685079
+  date: 2021-01-01
+  tags:
+    - IEEE
+    - machine learning
+    - IoT
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: FL-PATE: Differentially Private Federated Learning with Knowledge Transfer
+  # 作者: Y. Pan, J. Ni, and Z. Su
+  # 期刊/会议: Proc. of IEEE GLOBECOM 2021, Madrid, Spain, Dec. 7-11
+
+- id: doi:10.1109/iccc49849.2020.9238921
+  date: 2020-01-01
+  tags:
+    - IEEE
+    - security
+    - communications
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Private, Fair, and Verifiable Aggregate Statistics for Mobile Crowdsensing in Blockchain Era
+  # 作者: M. He, J. Ni, D. Liu, H. Yang, and X. Shen
+  # 期刊/会议: Proc. of IEEE/CIC ICCC 2020, Chongqing, China, Aug. 9-11
+
+- id: doi:10.1109/globecom42002.2020.9322483
+  date: 2020-01-01
+  tags:
+    - IEEE
+    - security
+    - communications
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Efficient and Privacy-Preserving Non-Interactive Truth Discovery for Mobile Crowdsensing
+  # 作者: C. Zhang, L. Zhu, C. Xu, J. Ni, C. Huang, and X. Shen
+  # 期刊/会议: Proc. of IEEE GLOBECOM 2020, Taipei, Taiwan, Dec. 7-11
+
+- id: doi:10.1109/icc40277.2020.9149181
+  date: 2020-01-01
+  tags:
+    - IEEE
+    - security
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Consent-based Privacy-preserving Decision Tree Evaluation
+  # 作者: L. Xue, D. Liu, J. Ni, X. Lin, and X. Shen
+  # 期刊/会议: Proc. of IEEE ICC 2020, Dublin, Ireland, June 7-11
+
+- id: doi:10.1109/icc.2019.8761769
+  date: 2019-01-01
+  tags:
+    - IEEE
+    - communications
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Towards Private and Efficient Ad Impression Aggregation in Mobile Advertising
+  # 作者: D. Liu, J. Ni, X. Lin, and X. Shen
+  # 期刊/会议: Proc. of IEEE ICC 2019, Shanghai, China, May 20-24
+
+- id: doi:10.1109/icc.2019.8761762
+  date: 2019-01-01
+  tags:
+    - IEEE
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Online Advertising with Verifiable Fairness
+  # 作者: C. Huang, J. Ni, R. Lu, and X. Shen
+  # 期刊/会议: Proc. of IEEE ICC 2019, Shanghai, China, May 20-24
+
+- id: doi:10.1109/globecom38437.2019.9013509
+  date: 2019-01-01
+  tags:
+    - IEEE
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Exploring Anonymous User Review: Linkability Analysis with Machine Learning
+  # 作者: C. Huang, J. Ni, R. Lu, and X. Shen
+  # 期刊/会议: Proc. of IEEE GLOBECOM 2019, Waikoloa, HI, USA, Dec. 9-13
+
+- id: doi:10.1109/pst47121.2019.8949066
+  date: 2019-01-01
+  tags:
+    - security
+    - communications
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Forward Secure and Fine-grained Data Sharing for Mobile Crowdsensing
+  # 作者: L. Xue, J. Ni, C. Huang, X. Lin, and X. Shen
+  # 期刊/会议: Proc. of PST 2019, Fredericton, NB, Canada, August 26-28
+
+- id: doi:10.1109/icc.2019.8761610
+  date: 2019-01-01
+  tags:
+    - IEEE
+    - security
+    - machine learning
+    - IoT
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Efficient and Privacy-Preserving Outsourced SVM Classification in Public Cloud
+  # 作者: J. Liang, Z. Qin, J. Ni, X. Lin, and X. Shen
+  # 期刊/会议: Proc. of IEEE ICC 2019, Shanghai, China, May 20-24
+
+- id: doi:10.1109/icc.2019.8761471
+  date: 2019-01-01
+  tags:
+    - IEEE
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Against Pilot Spoofing Attack with Double Channel Training in Massive MIMO NOMA Systems
+  # 作者: W. Wang, Z. Ying, J. Ni, X. Lin, and X. Shen
+  # 期刊/会议: Proc. of IEEE ICC 2019, Shanghai, China, May 20-24
+
+- id: doi:10.1109/mass.2018.00014
+  date: 2018-01-01
+  tags:
+    - IEEE
+    - security
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Efficient and Privacy-preserving Ad Conversion for V2X-assisted Proximity Marketing
+  # 作者: D. Liu, J. Ni, H. Li, X. Lin, and X. Shen
+  # 期刊/会议: Proc. of IEEE MASS 2018, Chengdu, China, Oct. 9-12
+
+- id: doi:10.1109/glocom.2018.8647610
+  date: 2018-01-01
+  tags:
+    - IEEE
+    - communications
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Achieving Adaptive Linkability for Cellular V2X Group Communications in 5G
+  # 作者: D. Liu, J. Ni, H. Li, and X. Shen
+  # 期刊/会议: Proc. of IEEE GLOBECOM 2018, Abu Dhabi, UAE, Dec. 9-13
+
+- id: doi:10.23919/wiopt.2018.8362850
+  date: 2018-01-01
+  tags:
+    - security
+    - machine learning
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Privacy-preserving Ride Clustering for Customized-bus Sharing: A Fog-assisted Approach
+  # 作者: Y. He, J. Ni, B. Niu, F. Li, and X. Shen
+  # 期刊/会议: Proc. of WiOpt 2018, Shanghai, China, May 7-11
+
+- id: doi:10.1109/icc.2018.8422445
+  date: 2018-01-01
+  tags:
+    - IEEE
+    - security
+    - IoT
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Reliable and Privacy-Preserving Selective Data Aggregation for Fog-Based IoT
+  # 作者: C. Huang, D. Liu, J. Ni, R. Lu, and X. Shen
+  # 期刊/会议: Proc. of IEEE ICC 2018, Kansas City, MO, USA, May 20-24
+
+- id: doi:10.1109/glocom.2017.8254013
+  date: 2017-01-01
+  tags:
+    - IEEE
+    - security
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Privacy-Preserving Data Forwarding in VANETs: A Personal-Social Behavior Based Approach
+  # 作者: J. Ni, X. Lin, and X. Shen
+  # 期刊/会议: Proc. of IEEE GLOBECOM 2017, Singapore, Dec. 4--8
+
+- id: doi:10.1109/icc.2017.7996808
+  date: 2017-01-01
+  tags:
+    - IEEE
+    - communications
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Dual-Anonymous Reward Distribution for Mobile Crowdsensing
+  # 作者: J. Ni, X. Lin, Q. Xia, and X. Shen
+  # 期刊/会议: Proc. of IEEE ICC 2017, Paris, France, May 21--25
+
+- id: doi:10.1109/icc.2017.7997116
+  date: 2017-01-01
+  tags:
+    - IEEE
+    - security
+    - communications
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Privacy-Preserving Mobile Crowdsensing for Location-Based Applications
+  # 作者: J. Ni, K. Zhang, X. Lin, Q. Xia, and X. Shen
+  # 期刊/会议: Proc. of IEEE ICC 2017, Paris, France, May 21--25
+
+- id: doi:10.1109/wcsp.2017.8170999
+  date: 2017-01-01
+  tags:
+    - security
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Location Privacy-Aware Task Recommendation for Spatial Crowdsourcing
+  # 作者: A. Alamer, J. Ni, X. Lin, and X. Shen
+  # 期刊/会议: Proc. of WCSP 2017, Nanjing, China, Oct. 11--13
+
+- id: # TODO: 添加DOI
+  # temp:cparn_cloudbased_privacypreserving_parking_navigation
+  date: 2016-01-01
+  tags:
+    - security
+    - communications
+    - machine learning
+    - IoT
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: CPARN: Cloud-Based Privacy-Preserving Parking Navigation in Vehicular Ad Hoc Networks
+  # 作者: J. Ni, K. Zhang, X. Lin, Y. Yu, and X. Shen
+  # 期刊/会议: Proc. of EAI SECURECOMM 2016, Guangzhou, China, Oct. 10--12
+
+- id: doi:10.1109/glocom.2016.7842248
+  date: 2016-01-01
+  tags:
+    - IEEE
+    - security
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Secure and Deduplicated Spatial Crowdsourcing: A Fog-Based Approach
+  # 作者: J. Ni, X. Lin, K. Zhang, and Y. Yu
+  # 期刊/会议: Proc. of IEEE GLOBECOM 2016, Washington D.C., USA, Dec. 4--8
+
+- id: doi:10.1109/vtcfall.2016.7881177
+  date: 2016-01-01
+  tags:
+    - IEEE
+    - security
+    - communications
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Privacy-Preserving Real-Time Navigation System Using Vehicular Crowdsourcing
+  # 作者: J. Ni, X. Lin, K. Zhang, and X. Shen
+  # 期刊/会议: Proc. of IEEE VTC-Fall 2016, Montreal, Canada, Sept. 18--21
+
+- id: doi:10.1109/iccchina.2016.7636866
+  date: 2016-01-01
+  tags:
+    - IEEE
+    - security
+    - IoT
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Secure Outsourced Data Transfer with Integrity Verification in Cloud Storage
+  # 作者: J. Ni, X. Lin, K. Zhang, Y. Yu, and X. Shen
+  # 期刊/会议: Proc. of IEEE/CIC ICCC 2016, Chengdu, China, Jul. 27--29
+
+- id: doi:10.1109/icc.2016.7511196
+  date: 2016-01-01
+  tags:
+    - IEEE
+    - security
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: AMA: Anonymous Mutual Authentication with Traceability in Carpooling Systems
+  # 作者: J. Ni, K. Zhang, X. Lin, H. Yang, and X. Shen
+  # 期刊/会议: Proc. of IEEE ICC 2016, Kuala Lumpur, Malaysia, May 23--27
+
+- id: doi:10.1109/iccchina.2016.7636868
+  date: 2016-01-01
+  tags:
+    - IEEE
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: Device-Invisible Two-Factor Authenticated Key Agreement for BYOD
+  # 作者: J. Ni, X. Lin, K. Zhang, Y. Yu, and X. Shen
+  # 期刊/会议: Proc. of IEEE/CIC ICCC 2016, Chengdu, China, Jul. 27--29
+
+- id: doi:10.1109/icc.2016.7510611
+  date: 2016-01-01
+  tags:
+    - IEEE
+    - security
+    - conference
+  # extra-links:
+  #   - type: source
+  #     link: # 源代码链接
+  # image: # 添加论文相关图片URL
+  # repo: # 添加GitHub仓库链接
+  # 标题: EDAT: Efficient Data Aggregation without TTP for Privacy-Assured Smart Metering
+  # 作者: J. Ni, K. Zhang, X. Lin, and X. Shen
+  # 期刊/会议: Proc. of IEEE ICC 2016, Kuala Lumpur, Malaysia, May 23--27
+

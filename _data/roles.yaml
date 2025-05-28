@@ -1,10 +1,6 @@
 postdoc:
-  icon: fas fa-glasses
+  icon: fas fa-microscope
   text: Postdoctoral Researcher
-
-phd:
-  icon: fas fa-graduation-cap
-  text: PhD Student
 
 undergrad:
   icon: fas fa-user-graduate
@@ -27,5 +23,23 @@ phd_2:
   text: PhD Student
   
 professor:
-  icon: fas fa-microscope
+  icon: fas fa-chalkboard-teacher
   text: Professor
+
+phd_3:
+  icon: fas fa-graduation-cap
+  text: PhD Student
+
+MASc_1:
+  icon: fas fa-book-reader
+  text: MASc Student
+
+MASc_2:
+  icon: fas fa-book-reader
+  text: MASc Student
+
+MASc_3:
+  icon: fas fa-book-reader
+  text: MASc Student
+
+

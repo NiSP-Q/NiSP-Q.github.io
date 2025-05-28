@@ -1,0 +1,16 @@
+I"®<h1 id="publication"><i class="fas fa-microscope"></i>Publication</h1>
+
+<!-- ## Highlighted -->
+
+<!-- section break -->
+
+<div class="search_box">
+  <input class="search_input" oninput="onSearchInput(this)" placeholder="Search" title="Search content on this page" />
+  <button disabled="" data-tooltip="Clear search" onclick="onSearchClear()">
+    <i class="fas fa-search"></i>
+  </button>
+</div>
+
+<div class="search_info"></div>
+
+:ET

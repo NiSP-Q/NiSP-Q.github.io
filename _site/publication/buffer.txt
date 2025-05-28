@@ -1,0 +1,66 @@
+DOI: 10.1109/TVT.2025.3542622
+Title: An Evolutionary Approach for Multiple Flying Base Stations Deployment in NOMA-Based Networks[1][2][3]
+Authors: Mohammad Reza Jabbari; Jianbing Ni; Ning Lu; Scott S.-H. Yam; Francois Chan[2]
+Publisher: IEEE Transactions on Vehicular Technology
+Date: 2025
+DOI URL: https://doi.org/10.1109/TVT.2025.3542622
+
+
+DOI: 10.1109/TIFS.2025.3536612
+Title: Protecting Your Attention During Distributed Graph Learning: Efficient Privacy-Preserving Federated Graph Attention Network
+Authors: Jinhao Zhou; Jun Wu; Jianbing Ni; Yuntao Wang; Yanghe Pan; Zhou Su
+Publisher: IEEE Transactions on Information Forensics and Security
+Date: 2025
+DOI URL: https://doi.org/10.1109/TIFS.2025.3536612
+
+
+DOI: 10.1109/TNNLS.2024.3486028
+Title: Secure and Efficient Federated Learning Against Model Poisoning Attacks in Horizontal and Vertical Data Partitioning[1]
+Authors: C. Yu; Z. Meng; W. Zhang; L. Lei; J. Ni; K. Zhang; H. Zhao
+Publisher: IEEE Transactions on Neural Networks and Learning Systems
+Date: 2024
+DOI URL: https://doi.org/10.1109/TNNLS.2024.3486028
+
+
+DOI: 10.1109/TIFS.2024.3490861
+Title: Evaluating Security and Robustness for Split Federated Learning Against Poisoning Attacks
+Authors: Xiaodong Wu; Xiangman Li; Jianbing Ni; Rongxing Lu
+Publisher: IEEE Transactions on Information Forensics and Security
+Date: 2025
+DOI URL: https://doi.org/10.1109/TIFS.2024.3490861
+
+
+DOI: 10.1109/TVT.2024.3364956
+Title: Effects of Phase Shifter Quantization on Secret Millimeter-Wave Communication Systems with Phased-Array Antennas
+Authors: Miao He; Jianbing Ni
+Publisher: IEEE Transactions on Vehicular Technology
+Date: 2024
+DOI URL: https://doi.org/10.1109/TVT.2024.3364956
+
+DOI: 10.1109/TMC.2024.3395388
+Title: Enabling Efficient and Distributed Access Control for Pervasive Edge Computing Services
+Authors: Lingshuang Liu; Cheng Huang; Dan Zhu; Dongxiao Liu; Jianbing Ni; Xuemin Shen
+Publisher: IEEE Transactions on Mobile Computing
+Date: 2024
+DOI URL: https://doi.org/10.1109/TMC.2024.3395388
+
+DOI: 10.1109/TIFS.2024.3394678
+Title: Revocable and Privacy-Preserving Bilateral Access Control for Cloud Data Sharing
+Authors: Mingyang Zhao; Chuan Zhang; Tong Wu; Jianbing Ni; Ximeng Liu; Liehuang Zhu
+Publisher: IEEE Transactions on Information Forensics and Security
+Date: 2024
+DOI URL: https://doi.org/10.1109/TIFS.2024.3394678
+
+DOI: 10.1109/TVT.2023.3341637
+Title: RSAM: Byzantine-Robust and Secure Model Aggregation in Federated Learning for Internet of Vehicles Using Private Approximate Median
+Authors: Yuanyuan He; Peizhi Li; Jianbing Ni; Xianjun Deng; Hongwei Lu; Jie Zhang; Laurence T. Yanghe
+Publisher: IEEE Transactions on Vehicular Technology
+Date: 2024
+DOI URL: https://doi.org/10.1109/TVT.2023.3341637
+
+DOI: 10.1109/LCOMM.2024.3361546
+Title: A Secret Multiuser Transmission Scheme With Dual-Phase-Shifter Structure for mmWave Wireless Communication
+Authors: Miao He; Jianbing Ni
+Publisher: IEEE Communications Letters
+Date: 2024
+DOI URL: https://doi.org/10.1109/LCOMM.2024.3361546

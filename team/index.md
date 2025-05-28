@@ -5,10 +5,12 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
 
-{% include section.html %}
-## Team
+
+# <i class="fas fa-users"></i>Team
+{% include section.html %} 
+
+## Principal Investigator
 {%
   include list.html
   data="members"
@@ -16,13 +18,15 @@ nav:
   filters="role: professor"
 %}
 
-## Current Team Members
+{% include section.html %}
+## Postdoctoral Researcher
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: postdoc"
 %}
+## Graduate Students
 {%
   include list.html
   data="members"
@@ -35,19 +39,50 @@ nav:
   component="portrait"
   filters="role: phd_2"
 %}
-{:.center}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd_3"
+%}
 
+<hr style="margin: 2em 0;">
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: MASc_1"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: MASc_2"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: MASc_3"
+%}
+{:.center}
 {% include section.html %}
 
-## Graduated Students
+## Alumnus
 {:.center}
-{%
+<!-- {%
   include feature.html
   image="images/objectives.jpg"
   flip=true
   text=text
-%}
+%} -->
 
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd"
+%}
 {% include section.html %}
 
 

@@ -1,8 +1,8 @@
 ---
 name: Miao He
 image: images/miaohe.jpg
-description: PhD Student, Physical Layer Security in mmWave Communication
-role: phd_2
+description: Physical Layer Security in mmWave Communication
+role: phd
 
 
 ---

@@ -2,7 +2,7 @@
 name: Xiaodong Wu
 image: images/member-xiaodong.jpg
 description: AI security and privacy, Machine learning, Trustworthy AI
-role: phd
+role: phd_1
 links:
   home-page: https://tristan199714.github.io/
   email: xiaodong.wu@queensu.ca

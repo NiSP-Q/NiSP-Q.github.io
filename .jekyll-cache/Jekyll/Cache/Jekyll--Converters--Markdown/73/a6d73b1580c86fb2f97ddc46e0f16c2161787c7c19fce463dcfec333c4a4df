@@ -1,0 +1,73 @@
+I"�<h1 id="1deployment-of-services">1.Deployment of Services</h1>
+
+<p>We conducted a sample study comprising 35 companies, categorized into 10 social platforms, 10 financial, 10 technical, and 4 government organizations. Based on this sample, we observed five distinct types of current implementation methods for data deletion: 1) deleting data via account setting, 2) using email communication, 3) submitting a written request, 
+4) filling out an inquiry form, and 5) contacting customer support. The summary of these methods is presented in the following table.</p>
+
+<div class="grid" data-style="square">
+  
+<figure class="figure">
+  <a class="figure_image" style="">
+    <img src="/images/t1.jpg" alt="Social Media" title="Social Media" style="width: 600px; height: ; object-fit: cover;" loading="lazy" />
+  </a><figcaption class="figure_caption">Social Media
+</figcaption></figure>
+
+<figure class="figure">
+  <a class="figure_image" style="">
+    <img src="/images/t2.jpg" alt="Finance" title="Finance" style="width: 600px; height: ; object-fit: cover;" loading="lazy" />
+  </a><figcaption class="figure_caption">Finance
+</figcaption></figure>
+
+<figure class="figure">
+  <a class="figure_image" style="">
+    <img src="/images/t3.jpg" alt="Technical" title="Technical" style="width: 600px; height: ; object-fit: cover;" loading="lazy" />
+  </a><figcaption class="figure_caption">Technical
+</figcaption></figure>
+
+<figure class="figure">
+  <a class="figure_image" style="">
+    <img src="/images/t4.jpg" alt="Government" title="Government" style="width: 600px; height: ; object-fit: cover;" loading="lazy" />
+  </a><figcaption class="figure_caption">Government
+</figcaption></figure>
+
+
+</div>
+
+<!-- section break -->
+<figure class="figure">
+  <a class="figure_image" style="">
+    <img src="/t6.jpg" alt="Types of implementation methods" title="Types of implementation methods" style="width: 600px; height: ; object-fit: cover;" loading="lazy" />
+  </a><figcaption class="figure_caption">Types of implementation methods
+</figcaption></figure>
+
+<figure class="figure">
+  <a class="figure_image" style="">
+    <img src="/images/t5.jpg" alt="Current Implementation Methods" title="Current Implementation Methods" style="width: 400px; height: ; object-fit: cover;" loading="lazy" />
+  </a><figcaption class="figure_caption">Current Implementation Methods
+</figcaption></figure>
+
+<!-- section break -->
+<h2 id="conclusion">Conclusion</h2>
+<p>From the table above, it is evident that the “Account Setting” method is the most widely used approach for users to exercise their 
+data deletion right (right to be forgotten), and this method is adopted by most social media companies. However, all governmental 
+organizations do not make any statement or provide a way for users to request the deletion of their data.</p>
+
+<p>Regarding the rights to erasure in Discord, besides offering a way to delete data by deleting the account, it also provides an 
+automated scheme wherein users’ data would be deleted if their accounts remain inactive for more than two years. This data deletion 
+scheme is commendable as it fulfills the right of erasure without requiring users to submit deletion requests themselves. In other 
+words, for those concerned about their data privacy, they need not worry about whether their data will be deleted, even 
+if they have not actively requested it.</p>
+
+<p>On the other hand, it is observed that all governmental agencies do not provide a way for users to request data deletion. The reason behind this is that most of the data processed by the government is done as a result of legal obligations or to carry out public tasks, and users cannot request the deletion of this data.</p>
+
+<!-- section break -->
+
+<div class="button-wrapper">
+    <a class="button" href="/erasure/eresult.html" data-tooltip="Back to Project Page" data-style="bare" data-flip="" aria-label="Back to Project Page">
+      <i class="icon fa-solid fa-arrow-left"></i>
+      
+        <span>Back to Project Page</span>
+      
+    </a>
+  </div>
+
+:ET

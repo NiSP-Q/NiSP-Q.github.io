@@ -1,0 +1,12 @@
+I"y<h2 id="page-not-found"><i class="fas fa-heart-broken"></i>Page Not Found</h2>
+
+<p class="center">Try searching the whole site for the content you want:</p>
+
+<form onsubmit="onSiteSearchSubmit(event)" title="Search site with Google">
+  <input type="text" name="query" placeholder="Search site" />
+  <button type="submit">
+    <i class="fas fa-search"></i>
+  </button>
+</form>
+
+:ET

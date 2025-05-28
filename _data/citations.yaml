@@ -1,67 +1,165 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+# - id: doi:10.1016/j.csbj.2020.05.017
+#   title: Constructing knowledge graphs and their biomedical applications
+#   authors:
+#   - David N. Nicholson
+#   - Casey S. Greene
+#   publisher: Computational and Structural Biotechnology Journal
+#   date: '2020-06-02'
+#   link: https://doi.org/gg7m48
+# - id: doi:10.1371/journal.pcbi.1007128
+#   title: Open collaborative writing with Manubot
+#   authors:
+#   - Daniel S. Himmelstein
+#   - Vincent Rubinetti
+#   - David R. Slochower
+#   - Dongbo Hu
+#   - Venkat S. Malladi
+#   - Casey S. Greene
+#   - Anthony Gitter
+#   publisher: PLOS Computational Biology
+#   date: '2019-06-24'
+#   link: https://doi.org/c7np
+#   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#   repo: greenelab/meta-review
+#   extra-links:
+#   - type: manubot
+#     link: https://greenelab.github.io/meta-review/
+#   - type: source
+#     link: https://github.com/greenelab/meta-review
+#   - type: website
+#     link: http://manubot.org/
+#   _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
+# - id: doi:10.7554/eLife.32822
+#   title: Sci-Hub provides access to nearly all scholarly literature
+#   authors:
+#   - Daniel S Himmelstein
+#   - Ariel Rodriguez Romero
+#   - Jacob G Levernier
+#   - Thomas Anthony Munro
+#   - Stephen Reid McLaughlin
+#   - Bastian Greshake Tzovaras
+#   - Casey S Greene
+#   publisher: eLife
+#   date: '2018-03-01'
+#   link: https://doi.org/ckcj
+#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+#   extra-links:
+#   - type: preprint
+#     link: https://doi.org/10.7287/peerj.preprints.3100v1
+#   - type: manubot
+#     link: https://greenelab.github.io/scihub-manuscript/
+#   - type: source
+#     link: https://github.com/greenelab/scihub-manuscript
+#     text: Manuscript source
+#   - type: source
+#     link: https://github.com/greenelab/scihub
+#     text: Analyses source
+#   _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+- id: doi:10.1109/TVT.2025.3542622
+  title: An Evolutionary Approach for Multiple Flying Base Stations Deployment in NOMA-Based Networks
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Mohammad Reza Jabbari
+  - Jianbing Ni
+  - Ning Lu
+  - Scott S.-H. Yam
+  - Francois Chan
+  publisher: IEEE Transactions on Vehicular Technology
+  date: '2025'
+  link: https://doi.org/10.1109/TVT.2025.3542622
+- id: doi:10.1109/TIFS.2025.3536612
+  title: Protecting Your Attention During Distributed Graph Learning: Efficient Privacy-Preserving Federated Graph Attention Network
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Jinhao Zhou
+  - Jun Wu
+  - Jianbing Ni
+  - Yuntao Wang
+  - Yanghe Pan
+  - Zhou Su
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2025'
+  link: https://doi.org/10.1109/TIFS.2025.3536612
+- id: doi:10.1109/TNNLS.2024.3486028
+  title: Secure and Efficient Federated Learning Against Model Poisoning Attacks in Horizontal and Vertical Data Partitioning
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  - C. Yu
+  - Z. Meng
+  - W. Zhang
+  - L. Lei
+  - J. Ni
+  - K. Zhang
+  - H. Zhao
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2024'
+  link: https://doi.org/10.1109/TNNLS.2024.3486028
+
+- id: doi:10.1109/TIFS.2024.3490861
+  title: Evaluating Security and Robustness for Split Federated Learning Against Poisoning Attacks
+  authors:
+  - Xiaodong Wu
+  - Xiangman Li
+  - Jianbing Ni
+  - Rongxing Lu
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2025'
+  link: https://doi.org/10.1109/TIFS.2024.3490861
+
+- id: doi:10.1109/TVT.2024.3364956
+  title: Effects of Phase Shifter Quantization on Secret Millimeter-Wave Communication Systems with Phased-Array Antennas
+  authors:
+  - Miao He
+  - Jianbing Ni
+  publisher: IEEE Transactions on Vehicular Technology
+  date: '2024'
+  link: https://doi.org/10.1109/TVT.2024.3364956
+
+- id: doi:10.1109/TMC.2024.3395388
+  title: Enabling Efficient and Distributed Access Control for Pervasive Edge Computing Services
+  authors:
+  - Lingshuang Liu
+  - Cheng Huang
+  - Dan Zhu
+  - Dongxiao Liu
+  - Jianbing Ni
+  - Xuemin Shen
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2024'
+  link: https://doi.org/10.1109/TMC.2024.3395388
+
+- id: doi:10.1109/TIFS.2024.3394678
+  title: Revocable and Privacy-Preserving Bilateral Access Control for Cloud Data Sharing
+  authors:
+  - Mingyang Zhao
+  - Chuan Zhang
+  - Tong Wu
+  - Jianbing Ni
+  - Ximeng Liu
+  - Liehuang Zhu
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2024'
+  link: https://doi.org/10.1109/TIFS.2024.3394678
+
+- id: doi:10.1109/TVT.2023.3341637
+  title: RSAM: Byzantine-Robust and Secure Model Aggregation in Federated Learning for Internet of Vehicles Using Private Approximate Median
+  authors:
+  - Yuanyuan He
+  - Peizhi Li
+  - Jianbing Ni
+  - Xianjun Deng
+  - Hongwei Lu
+  - Jie Zhang
+  - Laurence T. Yanghe
+  publisher: IEEE Transactions on Vehicular Technology
+  date: '2024'
+  link: https://doi.org/10.1109/TVT.2023.3341637
+
+- id: doi:10.1109/LCOMM.2024.3361546
+  title: A Secret Multiuser Transmission Scheme With Dual-Phase-Shifter Structure for mmWave Wireless Communication
+  authors:
+  - Miao He
+  - Jianbing Ni
+  publisher: IEEE Communications Letters
+  date: '2024'
+  link: https://doi.org/10.1109/LCOMM.2024.3361546

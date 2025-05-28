@@ -1,0 +1,5 @@
+# IEEE引用处理脚本依赖
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+PyYAML>=6.0
+lxml>=4.6.3 

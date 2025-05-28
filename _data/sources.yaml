@@ -1,33 +1,20 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-    - knowledge graphs
-
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+- id: doi:10.1109/TVT.2025.3542622
+- id: doi:10.1109/TIFS.2025.3536612
+- id: doi:10.1109/TNNLS.2024.3486028
+- id: doi:10.1109/TIFS.2024.3490861
+- id: doi:10.1109/TVT.2024.3364956
+- id: doi:10.1109/TNSE.2024.3395388
+- id: doi:10.1109/TMC.2024.3395388
+- id: doi:10.1109/TIFS.2024.3394678
+- id: doi:10.1109/TVT.2023.3341637
+- id: doi:10.1109/LCOMM.2024.3361546
+- id: doi:10.32629/jii.v2i2.939
+- id: doi:10.1109/TWC.2023.3323087
+- id: doi:10.1109/JSAC.2024.3370390
+- id: doi:10.1109/TC.2022.3175402
+- id: doi:10.1109/TIFS.2023.3262791
+- id: doi:10.1109/TDSC.2022.3168128
+- id: doi:10.1109/TDSC.2023.3259837
+- id: doi:10.1109/TMC.2022.3180425
+- id: doi:10.3969/j.issn.1673-5188.2022.04.004
+- id: doi:10.1109/TIFS.2022.3217032

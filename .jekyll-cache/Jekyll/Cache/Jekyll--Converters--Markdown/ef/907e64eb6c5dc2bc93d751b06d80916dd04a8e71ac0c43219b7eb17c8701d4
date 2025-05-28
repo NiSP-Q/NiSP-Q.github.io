@@ -1,0 +1,158 @@
+I"Z<h1 id="team"><i class="fas fa-users"></i>Team</h1>
+<!-- section break -->
+
+<h2 id="principal-investigator">Principal Investigator</h2>
+<a href="/members/Jianbing.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="Professor"><i class="fas fa-chalkboard-teacher"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/banner.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Jianbing Ni"
+    >
+  </span><span class="portrait_name">
+      Jianbing Ni
+    </span><span class="portrait_description">
+      
+    </span></a>
+
+<!-- section break -->
+<h2 id="postdoctoral-researcher">Postdoctoral Researcher</h2>
+<a href="/members/Qi%20Li.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="Postdoctoral Researcher"><i class="fas fa-microscope"></i></div>
+<span class="portrait_image">
+    <img
+      src=""
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Qi Li"
+    >
+  </span><span class="portrait_name">
+      Qi Li
+    </span><span class="portrait_description">
+      
+    </span></a>
+
+<h2 id="graduate-students">Graduate Students</h2>
+<a href="/members/xiaodong.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="PhD Student"><i class="fas fa-graduation-cap"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/member-xiaodong.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Xiaodong Wu"
+    >
+  </span><span class="portrait_name">
+      Xiaodong Wu
+    </span><span class="portrait_description">
+      AI security and privacy, Machine learning, Trustworthy AI
+    </span></a>
+
+<a href="/members/xiangman.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="PhD Student"><i class="fas fa-graduation-cap"></i></div>
+<span class="portrait_image">
+    <img
+      src="/images/member-xiangmanli_1.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Xiangman Li"
+    >
+  </span><span class="portrait_name">
+      Xiangman Li
+    </span><span class="portrait_description">
+      Network and system security
+    </span></a>
+
+<a href="/members/Jie.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="PhD Student"><i class="fas fa-graduation-cap"></i></div>
+<span class="portrait_image">
+    <img
+      src=""
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Jie Cao"
+    >
+  </span><span class="portrait_name">
+      Jie Cao
+    </span><span class="portrait_description">
+      
+    </span></a>
+
+<hr style="margin: 2em 0;" />
+
+<a href="/members/Nicholas%20Chivaran.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="MASc Student"><i class="fas fa-book-reader"></i></div>
+<span class="portrait_image">
+    <img
+      src=""
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Nicholas Chivaran"
+    >
+  </span><span class="portrait_name">
+      Nicholas Chivaran
+    </span><span class="portrait_description">
+      
+    </span></a>
+
+<a href="/members/HenryYuan.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="MASc Student"><i class="fas fa-book-reader"></i></div>
+<span class="portrait_image">
+    <img
+      src=""
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Henry Yuan"
+    >
+  </span><span class="portrait_name">
+      Henry Yuan
+    </span><span class="portrait_description">
+      
+    </span></a>
+
+<a href="/members/ZelinZhang.html" class="portrait" style="--width: 150px"><div class="role" data-tooltip="MASc Student"><i class="fas fa-book-reader"></i></div>
+<span class="portrait_image">
+    <img
+      src=""
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Zelin Zhang"
+    >
+  </span><span class="portrait_name">
+      Zelin Zhang
+    </span><span class="portrait_description">
+      
+    </span></a>
+
+<!-- section break -->
+
+<h2 class="center" id="alumnus">Alumnus</h2>
+<!-- <div class="feature" data-flip="true">
+  <a 
+    
+    class="feature_image"
+  >
+    <img
+      src="/images/objectives.jpg"
+      loading="lazy"
+      alt=""
+    />
+  </a>
+  <div class="feature_text">
+
+  </div>
+</div>
+ -->
+
+<a href="/members/miao.html" class="portrait" style="--width: 150px">
+<span class="portrait_image">
+    <img
+      src="/images/miaohe.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt="Miao He"
+    >
+  </span><span class="portrait_name">
+      Miao He
+    </span><span class="portrait_description">
+      Physical Layer Security in mmWave Communication
+    </span></a>
+
+<!-- section break -->
+
+:ET

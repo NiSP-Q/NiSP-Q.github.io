@@ -4,7 +4,7 @@ header: images/background.jpg
 footer: images/background.jpg
 links:
   email: jianbing.ni@queensu.ca
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: https://scholar.google.ca/citations?user=k5z2mOMAAAAJ&hl=en
 auto-cite:
   plugins:
     - name: sources
@@ -45,7 +45,7 @@ defaults:
     values:
       layout: erasures
 
-      
+     
 collections:
   members:
     output: true

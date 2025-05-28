@@ -1,0 +1,34 @@
+I"ˆ<h1 id="project"><i class="fas fa-Project"></i>Project</h1>
+
+<p>The Network Intelligence Security and Privacy Lab (NISPLab) focuses on research and development in the field of network security and privacy. Its tasks encompass a wide range of activities aimed at understanding, analyzing, and mitigating risks associated with the use of networks and data transmission.</p>
+
+<div class="search_info"></div>
+
+<!-- section break -->
+
+<h2 id="featured">Featured</h2>
+
+<span class="card" style="--width: 350px">
+  <a href="/erasure/eresult.html" class="card_image">
+    <img
+      src="/images/datadeletion.jpg"
+      onerror="this.src = '/images/placeholder.svg'; this.onerror = null;"
+      loading="lazy"
+      alt=""
+    >
+  </a><a href="/erasure/eresult.html"  class="card_title">Proof of Erasure</a><span class="card_subtitle">Secure Personal Data Deletion with Public Verifiability</span><p>Customers increasingly are asking service providers that maintain their digital information to delete their data. However, the current legislative landscape raises a number of questions, notably with regard to the right to erasure of Canadians. This project aims to acquire knowledge and understanding of data deletion policies, as well as explore effective approaches for secure data deletion and advanced designs of proof of erasure. In particular, the project will study the extent to which the right of data deletion is recognized by various privacy laws and regulations, such as the Personal Information Protection and Electronic Documents Act (PIPEDA), and analyze how that right is deployed on existing data platforms. It will also identify through an online survey and a case study the secure personal data deletion policies expected by the public.</p>
+<div class="tags"  data-link="/project/"><a
+        href='/project/?search="tag: Privacy Laws"'
+        class="tag"
+        data-tooltip='Show items with the tag "Privacy Laws"'
+      >Privacy Laws</a><a
+        href='/project/?search="tag:  Data Deletion"'
+        class="tag"
+        data-tooltip='Show items with the tag " Data Deletion"'
+      > Data Deletion</a></div></span>
+
+<!-- section break -->
+
+<h2 id="more">More</h2>
+
+:ET

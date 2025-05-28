@@ -52,7 +52,7 @@
       src="{{ include.image | relative_url }}"
       alt="{{ include.caption | default: '' }}"
       title="{{ include.caption | default: '' }}"
-      style="{{ img }}"
+      style="width: {{ include.width }}; height: {{ include.height }}; object-fit: cover;"
       loading="lazy"
     />
   </a>
