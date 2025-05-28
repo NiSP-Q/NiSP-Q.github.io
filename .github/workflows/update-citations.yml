@@ -1,0 +1,19 @@
+name: update-citations
+on:
+  push:
+    branches: [main]
+    paths:
+      - '_data/sources*.yaml'
+      - '_data/orcid*.yaml'
+  schedule:
+    - cron: '0 6 * * 0'     # 每周日 06:00 UTC 再跑一次
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # 这一步调用模板项目里封装好的 cite-process Action
+      - uses: greenelab/lab-website-template/.github/actions/cite-process@v2
+        with:
+          site-directory: .
