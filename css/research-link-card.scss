@@ -1,0 +1,194 @@
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+/* 研究链接卡片样式 - 强制白色背景和居中布局 */
+
+.research-link-card {
+  display: inline-block !important;
+  width: var(--width) !important;
+  max-width: calc(100% - 20px) !important;
+  margin: 20px 10px !important;
+  position: relative !important;
+}
+
+.research-link-card button.research-link-card__button {
+  display: flex !important;
+  flex-direction: column !important;
+  width: 100% !important;
+  height: 450px !important;
+  min-height: 450px !important;
+  max-height: 450px !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  background: white !important;
+  background-color: white !important;
+  background-image: none !important;
+  border-radius: 35px !important;
+  overflow: hidden !important;
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.12) !important;
+  transition: all 0.3s ease !important;
+  cursor: pointer !important;
+  position: relative !important;
+  transform: translateY(0) !important;
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.research-link-card button.research-link-card__button:hover {
+  transform: translateY(-12px) !important;
+  box-shadow: 0 15px 45px rgba(0, 0, 0, 0.2) !important;
+}
+
+.research-link-card button.research-link-card__button .research-link-card__image {
+  position: relative !important;
+  width: 100% !important;
+  height: 180px !important;
+  min-height: 180px !important;
+  max-height: 180px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  background: white !important;
+  background-color: white !important;
+  background-image: none !important;
+  border-radius: 35px 35px 0 0 !important;
+  padding: 20px !important;
+  flex-shrink: 0 !important;
+  margin: 0 !important;
+}
+
+.research-link-card button.research-link-card__button .research-link-card__image img {
+  max-width: 150px !important;
+  max-height: 150px !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
+  transition: transform 0.5s ease !important;
+  border-radius: 15px !important;
+  background: transparent !important;
+  background-color: transparent !important;
+  background-image: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.research-link-card button.research-link-card__button:hover .research-link-card__image img {
+  transform: scale(1.05) !important;
+}
+
+.research-link-card button.research-link-card__button .research-link-card__content {
+  flex: 1 !important;
+  padding: 30px 25px 25px 25px !important;
+  text-align: center !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  align-items: center !important;
+  background: white !important;
+  background-color: white !important;
+  background-image: none !important;
+  margin: 0 !important;
+}
+
+.research-link-card button.research-link-card__button .research-link-card__title {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  font-size: 24px !important;
+  font-weight: 800 !important;
+  margin: 0 0 20px 0 !important;
+  padding: 0 !important;
+  line-height: 1.3 !important;
+  transition: color 0.3s ease !important;
+  color: #333333 !important;
+  text-align: center !important;
+  width: 100% !important;
+}
+
+.research-link-card button.research-link-card__button:hover .research-link-card__title {
+  color: #1976d2 !important;
+}
+
+.research-link-card button.research-link-card__button .research-link-card__description {
+  font-size: 15px !important;
+  line-height: 1.6 !important;
+  color: #666666 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  text-align: center !important;
+  width: 100% !important;
+}
+
+.research-link-card button.research-link-card__button .research-link-card__description p {
+  margin: 0 !important;
+  padding: 0 !important;
+  text-align: center !important;
+}
+
+/* 移动端响应式 */
+@media (max-width: 768px) {
+  .research-link-card button.research-link-card__button {
+    height: 400px !important;
+    min-height: 400px !important;
+    max-height: 400px !important;
+    border-radius: 25px !important;
+  }
+  
+  .research-link-card button.research-link-card__button .research-link-card__image {
+    height: 140px !important;
+    min-height: 140px !important;
+    max-height: 140px !important;
+    border-radius: 25px 25px 0 0 !important;
+    padding: 15px !important;
+  }
+  
+  .research-link-card button.research-link-card__button .research-link-card__image img {
+    max-width: 120px !important;
+    max-height: 120px !important;
+  }
+  
+  .research-link-card button.research-link-card__button .research-link-card__title {
+    font-size: 20px !important;
+  }
+  
+  .research-link-card button.research-link-card__button .research-link-card__description {
+    font-size: 14px !important;
+  }
+}
+
+/* 强制覆盖所有背景 */
+.research-link-card *,
+.research-link-card *:before,
+.research-link-card *:after {
+  background-image: none !important;
+}
+
+.research-link-card .research-link-card__button,
+.research-link-card .research-link-card__image,
+.research-link-card .research-link-card__content {
+  background: white !important;
+  background-color: white !important;
+  background-image: none !important;
+}
+
+// 深色主题适配
+@media (prefers-color-scheme: dark) {
+  .research-link-card {
+    &__button {
+      background: #ffffff !important;
+      box-shadow: 0 6px 25px rgba(0, 0, 0, 0.4);
+      
+      &:hover {
+        box-shadow: 0 15px 45px rgba(0, 0, 0, 0.5);
+      }
+    }
+    
+    &__image {
+      background: #ffffff !important;
+    }
+    
+    &__content {
+      background: #ffffff !important;
+    }
+  }
+} 
