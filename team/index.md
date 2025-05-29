@@ -53,12 +53,12 @@ nav:
   component="portrait"
   filters="role: MASc_1"
 %}
-{%
+<!-- {%
   include list.html
   data="members"
   component="portrait"
   filters="role: MASc_2"
-%}
+%} -->
 {%
   include list.html
   data="members"

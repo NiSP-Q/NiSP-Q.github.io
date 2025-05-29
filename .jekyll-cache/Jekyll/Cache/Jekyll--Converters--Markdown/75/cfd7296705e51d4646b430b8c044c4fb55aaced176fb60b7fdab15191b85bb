@@ -1,0 +1,159 @@
+I"+%<h1 id="publication"><i class="fas fa-microscope"></i>Publication</h1>
+
+<!-- ## Highlighted -->
+
+<!-- section break -->
+
+<div class="search_box">
+  <input class="search_input" oninput="onSearchInput(this)" placeholder="Search" title="Search content on this page" />
+  <button disabled="" data-tooltip="Clear search" onclick="onSearchClear()">
+    <i class="fas fa-search"></i>
+  </button>
+</div>
+
+<div class="search_info"></div>
+
+<h3 id="2025">2025</h3>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://doi.org/10.1109/TVT.2025.3542622">
+        <img src="/images/citation-10.1109.png" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.1109/TVT.2025.3542622" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://doi.org/10.1109/TVT.2025.3542622">
+        An Evolutionary Approach for Multiple Flying Base Stations Deployment in NOMA-Based Networks
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      Mohammad Reza Jabbari, Jianbing Ni, Ning Lu, Scott S.-H. Yam, Francois Chan
+    </div><div class="citation_details">
+      IEEE Transactions on Vehicular Technology&nbsp; · &nbsp;17 Feb 2025
+    </div><div class="citation_links"></div></div>
+</div>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://ieeexplore.ieee.org/document/10858070">
+        <img src="/images/tifs.2025.3536612.png" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.1109/tifs.2025.3536612" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://ieeexplore.ieee.org/document/10858070">
+        Protecting Your Attention during Distributed Graph Learning:Privacy-Preserving Federated Graph Attention Network
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      Jing Zhou, Jun Wu, Jianbing Ni, Yifan Wang, Yifan Pan, Zhiyong Su
+    </div><div class="citation_details">
+      IEEE Transactions on Information Forensics &amp; Security&nbsp; · &nbsp;29 Jan 2025
+    </div><div class="citation_links"></div></div>
+</div>
+<h3 id="2024">2024</h3>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://ieeexplore.ieee.org/document/10742955">
+        <img src="/images/TNNLS.2024.3486028.png" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.1109/TNNLS.2024.3486028" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://ieeexplore.ieee.org/document/10742955">
+        Secure and Efficient Federated Learning Against Model Poisoning Attacks in Horizontal and Vertical Data Partitioning
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      Chen Yu, Zhenyu Meng, Wei Zhang, Lei Lei, Jianbing Ni, Kai Zhang, Hao Zhao
+    </div><div class="citation_details">
+      IEEE Transactions on Neural Networks and Learning Systems&nbsp; · &nbsp;05 Nov 2024
+    </div><div class="citation_links"></div></div>
+</div>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://ieeexplore.ieee.org/document/10741585">
+        <img src="/images/TIFS.2024.3531001.png" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.1109/TIFS.2024.3531001" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://ieeexplore.ieee.org/document/10741585">
+        Evaluating Security and Robustness for Split Federated Learning against Poisoning
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      Xiaoyu Wu, Xiaoyan Li, Jianbing Ni, Rongxing Lu
+    </div><div class="citation_details">
+      IEEE Transactions on Information Forensics &amp; Security&nbsp; · &nbsp;04 Nov 2024
+    </div><div class="citation_links"></div></div>
+</div>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://ieeexplore.ieee.org/document/10599633">
+        <img src="/images/TVT.2024.3429232.png" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.1109/TVT.2024.3429232" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://ieeexplore.ieee.org/document/10599633">
+        Effects of Phase Shifter Quantization on Secret Millimeter-Wave Communication Systems with Phased-Array Antennas
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      Ming He, Jianbing Ni
+    </div><div class="citation_details">
+      IEEE Transactions on Vehicular Technology&nbsp; · &nbsp;16 Jul 2024
+    </div><div class="citation_links"></div></div>
+</div>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://ieeexplore.ieee.org/document/10516262">
+        <img src="/images/TMC.2024.3395388.png" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.1109/TMC.2024.3395388" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://ieeexplore.ieee.org/document/10516262">
+        Enabling Efficient and Distributed Access Control for Pervasive Edge Computing Services
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      Lin Liu, Chao Huang, Dong Zhu, Dapeng Liu, Jianbing Ni, Xuemin Shen
+    </div><div class="citation_details">
+      IEEE Transactions on Mobile Computing&nbsp; · &nbsp;02 May 2024
+    </div><div class="citation_links"></div></div>
+</div>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://ieeexplore.ieee.org/document/10509736">
+        <img src="/images/TIFS.2024.3394678.png" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.1109/TIFS.2024.3394678" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://ieeexplore.ieee.org/document/10509736">
+        Revocable and Privacy-Preserving Bilateral Access Control for Cloud Data Sharing
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      Ming Zhao, Cheng Zhang, Tao Wu, Jianbing Ni, Xiaoyan Liu, Ling Zhu
+    </div><div class="citation_details">
+      IEEE Transactions on Information Forensics &amp; Security&nbsp; · &nbsp;29 Apr 2024
+    </div><div class="citation_links"></div></div>
+</div>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://ieeexplore.ieee.org/document/10500328">
+        <img src="/images/TNSE.2024.3386623.png" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.1109/TNSE.2024.3386623" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://ieeexplore.ieee.org/document/10500328">
+        Privacy-Preserving Heterogeneous Personalized Federated Learning with Knowledge
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      Yifan Pan, Zhiyong Su, Jianbing Ni, Yifan Wang, Jing Zhou
+    </div><div class="citation_details">
+      IEEE Transactions on Network Science and Engineering&nbsp; · &nbsp;15 Apr 2024
+    </div><div class="citation_links"></div></div>
+</div>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://ieeexplore.ieee.org/document/10433643">
+        <img src="/images/LCOMM.2024.3365475.png" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.1109/LCOMM.2024.3365475" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://ieeexplore.ieee.org/document/10433643">
+        A Secret Multiuser Transmission Scheme with Dual-Phase-Shifter Structure for mmWave Wireless Communication
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      Ming He, Jianbing Ni
+    </div><div class="citation_details">
+      IEEE Communications Letters&nbsp; · &nbsp;13 Feb 2024
+    </div><div class="citation_links"></div></div>
+</div>
+<h3 id="2023">2023</h3>
+<div class="citation" data-style="rich"><div class="citation_image">
+      <a href="https://doi.org/10.1109/TVT.2023.3341637">
+        <img src="/images/TVT.2023.3341637.png" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" data-tooltip="doi:10.1109/TVT.2023.3341637" loading="lazy" alt="Citation thumbnail" />
+      </a>
+    </div><div class="citation_text"><div class="citation_title">
+      <a href="https://doi.org/10.1109/TVT.2023.3341637">
+        RSAM:Byzantine-Robust and Secure Model Aggregation in Federated Learning for Internet of Vehicles using Private Approximate Median
+      </a>
+    </div><div class="citation_authors truncate" tabindex="0">
+      Yifan He, Peng Li, Jianbing Ni, Xiaoyan Deng, Hao Lu, Jing Zhang, Lei Yang
+    </div><div class="citation_details">
+      IEEE Transactions on Vehicular Technology&nbsp; · &nbsp;18 Dec 2023
+    </div><div class="citation_links"></div></div>
+</div>
+:ET

@@ -1,0 +1,59 @@
+I"0<h1 id="research-area">Research Area</h1>
+
+<p>We specialise in the security and privacy protection of Artificial Intelligence Generated Content (AIGC) and are committed to developing advanced watermarking technologies and privacy protection solutions.</p>
+
+<h2 id="group-research">Group research</h2>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 40px; margin: 40px 0;">
+
+<div class="research-link-card" style="--width: 400px; display: inline-block; width: 400px; max-width: calc(100% - 20px); margin: 20px 10px; position: relative;">
+  <button class="research-link-card__button" onclick="window.open('https://liam-z-z.github.io', '_blank')" type="button" style="display: flex; flex-direction: column; width: 100%; height: 450px; border: none; padding: 0; margin: 0; background: white; background-color: white; background-image: none; border-radius: 35px; overflow: hidden; box-shadow: 0 6px 25px rgba(0, 0, 0, 0.12); transition: all 0.3s ease; cursor: pointer; position: relative; transform: translateY(0); color: inherit; text-decoration: none;">
+    
+    <!-- 图像区域 -->
+    <div class="research-link-card__image" style="position: relative; width: 100%; height: 180px; display: flex; justify-content: center; align-items: center; background: white; background-color: white; background-image: none; border-radius: 35px 35px 0 0; padding: 20px; flex-shrink: 0; margin: 0;">
+      <img src="/images/research.png" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" loading="lazy" alt="AIGC watermarking" style="max-width: 150px; max-height: 150px; width: auto; height: auto; object-fit: contain; transition: transform 0.5s ease; border-radius: 15px; background: transparent; background-color: transparent; background-image: none; margin: 0; padding: 0;" />
+    </div>
+
+    <!-- 内容区域 -->
+    <div class="research-link-card__content" style="flex: 1; padding: 30px 25px 25px 25px; text-align: center; display: flex; flex-direction: column; justify-content: flex-start; align-items: center; background: white; background-color: white; background-image: none; margin: 0;"><h3 class="research-link-card__title" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 24px; font-weight: 800; margin: 0 0 20px 0; padding: 0; line-height: 1.3; color: #333333; text-align: center; width: 100%;">AIGC watermarking</h3><div class="research-link-card__description" style="font-size: 15px; line-height: 1.6; color: #666666; margin: 0; padding: 0; text-align: center; width: 100%;"><p>专注于AI生成内容的水印嵌入与检测技术，涵盖图像、文本、音频等多模态内容的版权保护与溯源技术研究。我们开发了多项创新的水印算法，在保持内容质量的同时实现高鲁棒性的数字水印。</p>
+</div></div>
+
+  </button>
+</div> 
+
+<div class="research-link-card" style="--width: 400px; display: inline-block; width: 400px; max-width: calc(100% - 20px); margin: 20px 10px; position: relative;">
+  <button class="research-link-card__button" onclick="window.open('/project/', '_blank')" type="button" style="display: flex; flex-direction: column; width: 100%; height: 450px; border: none; padding: 0; margin: 0; background: white; background-color: white; background-image: none; border-radius: 35px; overflow: hidden; box-shadow: 0 6px 25px rgba(0, 0, 0, 0.12); transition: all 0.3s ease; cursor: pointer; position: relative; transform: translateY(0); color: inherit; text-decoration: none;">
+    
+    <!-- 图像区域 -->
+    <div class="research-link-card__image" style="position: relative; width: 100%; height: 180px; display: flex; justify-content: center; align-items: center; background: white; background-color: white; background-image: none; border-radius: 35px 35px 0 0; padding: 20px; flex-shrink: 0; margin: 0;">
+      <img src="/images/privacy.jpg" onerror="this.src = '/images/placeholder.svg'; this.onerror = null;" loading="lazy" alt="Machine Unlearning" style="max-width: 150px; max-height: 150px; width: auto; height: auto; object-fit: contain; transition: transform 0.5s ease; border-radius: 15px; background: transparent; background-color: transparent; background-image: none; margin: 0; padding: 0;" />
+    </div>
+
+    <!-- 内容区域 -->
+    <div class="research-link-card__content" style="flex: 1; padding: 30px 25px 25px 25px; text-align: center; display: flex; flex-direction: column; justify-content: flex-start; align-items: center; background: white; background-color: white; background-image: none; margin: 0;"><h3 class="research-link-card__title" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 24px; font-weight: 800; margin: 0 0 20px 0; padding: 0; line-height: 1.3; color: #333333; text-align: center; width: 100%;">Machine Unlearning</h3><div class="research-link-card__description" style="font-size: 15px; line-height: 1.6; color: #666666; margin: 0; padding: 0; text-align: center; width: 100%;"><p>研究联邦学习、差分隐私、安全多方计算等前沿隐私保护技术，为AI模型训练和数据分析提供强有力的隐私安全保障。我们的研究成果已应用于多个实际场景。</p>
+</div></div>
+
+  </button>
+</div> 
+
+</div>
+
+<!-- ## 📚 最新研究成果
+
+<!-- section break -->
+
+<h2 id="-研究影响力">🏆 研究影响力</h2>
+
+<p>我们的研究工作已发表在多个顶级国际会议和期刊上，包括但不限于：</p>
+<ul>
+  <li>IEEE Transactions on Information Forensics and Security (TIFS)</li>
+  <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
+  <li>IEEE Transactions on Multimedia (TMM)</li>
+  <li>ACM Conference on Computer and Communications Security (CCS)</li>
+</ul>
+
+<hr />
+
+<p><em>持续推进AI安全与隐私保护技术的前沿研究，为构建安全可信的智能系统贡献力量。</em> –&gt;</p>
+
+:ET
