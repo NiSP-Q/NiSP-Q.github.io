@@ -77,12 +77,12 @@
 - id: doi:10.1109/tifs.2025.3536612
   title: Protecting Your Attention during Distributed Graph Learning:Privacy-Preserving Federated Graph Attention Network
   authors:
-  - Jing Zhou
+  - Jinhao Zhou
   - Jun Wu
   - Jianbing Ni
-  - Yifan Wang
-  - Yifan Pan
-  - Zhiyong Su
+  - Yuntao Wang
+  - Yanghe Pann
+  - Zhou Su
   publisher: IEEE Transactions on Information Forensics & Security
   date: '2025-01-29'
   link: https://ieeexplore.ieee.org/document/10858070
@@ -91,13 +91,12 @@
 - id: doi:10.1109/TNNLS.2024.3486028
   title: Secure and Efficient Federated Learning Against Model Poisoning Attacks in Horizontal and Vertical Data Partitioning
   authors:
-  - Chen Yu
+  - Chong Yu
   - Zhenyu Meng
-  - Wei Zhang
+  - Wenmiao Zhang
   - Lei Lei
   - Jianbing Ni
-  - Kai Zhang
-  - Hao Zhao
+  - Kuan Zhang
   publisher: IEEE Transactions on Neural Networks and Learning Systems
   date: '2024-11-05'
   link: https://ieeexplore.ieee.org/document/10742955
