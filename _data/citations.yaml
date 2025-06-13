@@ -105,8 +105,9 @@
 - id: doi:10.1109/TIFS.2024.3531001
   title: Evaluating Security and Robustness for Split Federated Learning against Poisoning
   authors:
-  - Xiaoyu Wu
-  - Xiaoyan Li
+  - Xiaodong Wu
+  - Henry Yuan
+  - Xiangman Li
   - Jianbing Ni
   - Rongxing Lu
   publisher: IEEE Transactions on Information Forensics & Security
@@ -117,7 +118,7 @@
 - id: doi:10.1109/TVT.2024.3429232
   title: Effects of Phase Shifter Quantization on Secret Millimeter-Wave Communication Systems with Phased-Array Antennas
   authors:
-  - Ming He
+  - Miao He
   - Jianbing Ni
   publisher: IEEE Transactions on Vehicular Technology
   date: '2024-07-16'
@@ -140,10 +141,10 @@
 - id: doi:10.1109/TMC.2024.3395388
   title: Enabling Efficient and Distributed Access Control for Pervasive Edge Computing Services
   authors:
-  - Lin Liu
-  - Chao Huang
-  - Dong Zhu
-  - Dapeng Liu
+  - Lingshuang Liu
+  - Cheng Huang
+  - Dan Zhu
+  - Dongxiao Liu
   - Jianbing Ni
   - Xuemin Shen
   publisher: IEEE Transactions on Mobile Computing
@@ -154,12 +155,12 @@
 - id: doi:10.1109/TIFS.2024.3394678
   title: Revocable and Privacy-Preserving Bilateral Access Control for Cloud Data Sharing
   authors:
-  - Ming Zhao
-  - Cheng Zhang
-  - Tao Wu
+  - Mingyang Zhao
+  - Chuan Zhang
+  - Tong Wu
   - Jianbing Ni
-  - Xiaoyan Liu
-  - Ling Zhu
+  - Ximeng Liu
+  - Liehuang Zhu
   publisher: IEEE Transactions on Information Forensics & Security
   date: '2024-04-29'
   link: https://ieeexplore.ieee.org/document/10509736
@@ -168,13 +169,12 @@
 - id: doi:10.1109/TVT.2023.3341637
   title: RSAM:Byzantine-Robust and Secure Model Aggregation in Federated Learning for Internet of Vehicles using Private Approximate Median
   authors:
-  - Yifan He
-  - Peng Li
+  - Yuanyuan He
+  - Peizhi Li
   - Jianbing Ni
-  - Xiaoyan Deng
-  - Hao Lu
-  - Jing Zhang
-  - Lei Yang
+  - Xianjun Deng
+  - Hongwei Lu
+  - Jie Zhang
   publisher: IEEE Transactions on Vehicular Technology
   date: '2023-12-18'
   link: https://doi.org/10.1109/TVT.2023.3341637
@@ -183,7 +183,7 @@
 - id: doi:10.1109/LCOMM.2024.3365475
   title: A Secret Multiuser Transmission Scheme with Dual-Phase-Shifter Structure for mmWave Wireless Communication
   authors:
-  - Ming He
+  - Miao He
   - Jianbing Ni
   publisher: IEEE Communications Letters
   date: '2024-02-13'
