@@ -25,19 +25,7 @@
   {%- assign id = citation.id | default: "" -%}
   {%- assign link = citation.link | default: "" -%}
   {%- assign image = citation.image | default: "" -%}
-  {%- if rich -%}
-    <div class="citation_image">
-      <a href="{{ link }}">
-        <img
-          src="{{ image | relative_url }}"
-          onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
-          data-tooltip="{{ id }}"
-          loading="lazy"
-          alt="Citation thumbnail"
-        >
-      </a>
-    </div>
-  {%- endif -%}
+
 
   <div class="citation_text">
     {%- assign title = citation.title | default: "" -%}
