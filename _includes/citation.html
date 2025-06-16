@@ -57,8 +57,24 @@
 
     {%- assign publisher = citation.publisher | default: "[no publisher info]" -%}
     {%- assign date = citation.date | default: "[no date info]" -%}
+    {%- comment -%} 智能处理日期显示，只显示年份 {%- endcomment -%}
+    {%- assign year_display = "[no date info]" -%}
+    {%- if date != "[no date info]" -%}
+      {%- assign date_str = date | strip -%}
+      {%- if date_str contains "-" -%}
+        {%- comment -%} 如果是YYYY-MM-DD格式，提取年份 {%- endcomment -%}
+        {%- assign year_display = date | date: "%Y" -%}
+        {%- if year_display == "1969" -%}
+          {%- comment -%} 如果解析失败显示1969，则直接使用原始字符串的前4位 {%- endcomment -%}
+          {%- assign year_display = date_str | slice: 0, 4 -%}
+        {%- endif -%}
+      {%- else -%}
+        {%- comment -%} 如果只是年份，直接显示 {%- endcomment -%}
+        {%- assign year_display = date_str -%}
+      {%- endif -%}
+    {%- endif -%}
     <div class="citation_details">
-      {{ publisher }}&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}
+      {{ publisher }}&nbsp; · &nbsp;{{ year_display }}
     </div>
 
     {%- if rich -%}

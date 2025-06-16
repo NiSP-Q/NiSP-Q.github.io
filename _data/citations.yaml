@@ -1,66 +1,3 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
-# See https://github.com/greenelab/lab-website-template/wiki/Citations
-
-
-
-# - id: doi:10.1371/journal.pcbi.1007128
-#   title: Open collaborative writing with Manubot
-#   authors:
-#   - Daniel S. Himmelstein
-#   - Vincent Rubinetti
-#   - David R. Slochower
-#   - Dongbo Hu
-#   - Venkat S. Malladi
-#   - Casey S. Greene
-#   - Anthony Gitter
-#   publisher: PLOS Computational Biology
-#   date: '2019-06-24'
-#   link: https://doi.org/c7np
-#   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-#   repo: greenelab/meta-review
-#   extra-links:
-#   - type: manubot
-#     link: https://greenelab.github.io/meta-review/
-#   - type: source
-#     link: https://github.com/greenelab/meta-review
-#   - type: website
-#     link: http://manubot.org/
-#   _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-# - id: doi:10.7554/eLife.32822
-#   title: Sci-Hub provides access to nearly all scholarly literature
-#   authors:
-#   - Daniel S Himmelstein
-#   - Ariel Rodriguez Romero
-#   - Jacob G Levernier
-#   - Thomas Anthony Munro
-#   - Stephen Reid McLaughlin
-#   - Bastian Greshake Tzovaras
-#   - Casey S Greene
-#   publisher: eLife
-#   date: '2018-03-01'
-#   link: https://doi.org/ckcj
-#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-#   extra-links:
-#   - type: preprint
-#     link: https://doi.org/10.7287/peerj.preprints.3100v1
-#   - type: manubot
-#     link: https://greenelab.github.io/scihub-manuscript/
-#   - type: source
-#     link: https://github.com/greenelab/scihub-manuscript
-#     text: Manuscript source
-#   - type: source
-#     link: https://github.com/greenelab/scihub
-#     text: Analyses source
-#   _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
-# - id: doi:10.1016/j.csbj.2020.05.017
-#   title: Constructing knowledge graphs and their biomedical applications
-#   authors:
-#   - David N. Nicholson
-#   - Casey S. Greene
-#   publisher: Computational and Structural Biotechnology Journal
-#   date: '2020-06-02'
-#   link: https://doi.org/gg7m48
-
 - id: doi:10.1109/TVT.2025.3542622
   title: An Evolutionary Approach for Multiple Flying Base Stations Deployment in NOMA-Based Networks
   authors:
@@ -72,7 +9,6 @@
   publisher: IEEE Transactions on Vehicular Technology
   date: '2025-02-17'
   link: https://doi.org/10.1109/TVT.2025.3542622
-  image: images/citation-10.1109.png
   
 - id: doi:10.1109/tifs.2025.3536612
   title: Protecting Your Attention during Distributed Graph Learning:Privacy-Preserving Federated Graph Attention Network
@@ -86,7 +22,6 @@
   publisher: IEEE Transactions on Information Forensics & Security
   date: '2025-01-29'
   link: https://ieeexplore.ieee.org/document/10858070
-  image: images/tifs.2025.3536612.png
 
 - id: doi:10.1109/TNNLS.2024.3486028
   title: Secure and Efficient Federated Learning Against Model Poisoning Attacks in Horizontal and Vertical Data Partitioning
@@ -100,7 +35,6 @@
   publisher: IEEE Transactions on Neural Networks and Learning Systems
   date: '2024-11-05'
   link: https://ieeexplore.ieee.org/document/10742955
-  image: images/TNNLS.2024.3486028.png
 
 - id: doi:10.1109/TIFS.2024.3531001
   title: Evaluating Security and Robustness for Split Federated Learning against Poisoning
@@ -113,7 +47,6 @@
   publisher: IEEE Transactions on Information Forensics & Security
   date: '2024-11-04'
   link: https://ieeexplore.ieee.org/document/10741585
-  image: images/TIFS.2024.3531001.png
 
 - id: doi:10.1109/TVT.2024.3429232
   title: Effects of Phase Shifter Quantization on Secret Millimeter-Wave Communication Systems with Phased-Array Antennas
@@ -123,7 +56,6 @@
   publisher: IEEE Transactions on Vehicular Technology
   date: '2024-07-16'
   link: https://ieeexplore.ieee.org/document/10599633
-  image: images/TVT.2024.3429232.png
 
 - id: doi:10.1109/TNSE.2024.3386623
   title: Privacy-Preserving Heterogeneous Personalized Federated Learning with Knowledge
@@ -136,7 +68,6 @@
   publisher: IEEE Transactions on Network Science and Engineering
   date: '2024-04-15'
   link: https://ieeexplore.ieee.org/document/10500328
-  image: images/TNSE.2024.3386623.png
 
 - id: doi:10.1109/TMC.2024.3395388
   title: Enabling Efficient and Distributed Access Control for Pervasive Edge Computing Services
@@ -150,7 +81,6 @@
   publisher: IEEE Transactions on Mobile Computing
   date: '2024-05-02'
   link: https://ieeexplore.ieee.org/document/10516262
-  image: images/TMC.2024.3395388.png
 
 - id: doi:10.1109/TIFS.2024.3394678
   title: Revocable and Privacy-Preserving Bilateral Access Control for Cloud Data Sharing
@@ -164,7 +94,6 @@
   publisher: IEEE Transactions on Information Forensics & Security
   date: '2024-04-29'
   link: https://ieeexplore.ieee.org/document/10509736
-  image: images/TIFS.2024.3394678.png
 
 - id: doi:10.1109/TVT.2023.3341637
   title: RSAM:Byzantine-Robust and Secure Model Aggregation in Federated Learning for Internet of Vehicles using Private Approximate Median
@@ -178,7 +107,6 @@
   publisher: IEEE Transactions on Vehicular Technology
   date: '2023-12-18'
   link: https://doi.org/10.1109/TVT.2023.3341637
-  image: images/TVT.2023.3341637.png
 
 - id: doi:10.1109/LCOMM.2024.3365475
   title: A Secret Multiuser Transmission Scheme with Dual-Phase-Shifter Structure for mmWave Wireless Communication
@@ -188,4 +116,749 @@
   publisher: IEEE Communications Letters
   date: '2024-02-13'
   link: https://ieeexplore.ieee.org/document/10433643
-  image: images/LCOMM.2024.3365475.png
+
+- id: doi:10.1109/twc.2023.3277448
+  title: 'Enabling Low Sidelobe Secret Multicast Transmission for mmWave Communication:
+    An Integrated Oblique Projection Approach'
+  authors:
+  - Miao He
+  - Jianbing Ni
+  - Meng Li
+  - Alessandro Brighente
+  - Mauro Conti
+  publisher: IEEE Transactions on Wireless Communications
+  date: '2023-01-01'
+  link: https://doi.org/10.1109/twc.2023.3277448
+
+- id: doi:10.1109/jsac.2023.3345392
+  title: Privacy-Preserving Identity-Based Data Rights Governance for Blockchain-Empowered
+    Human-Centric Metaverse Communications
+  authors:
+  - Chuan Zhang
+  - Mingyang Zhao
+  - Weiting Zhang
+  - Qing Fan
+  - Jianbing Ni
+  - Liehuang Zhu
+  publisher: IEEE Journal on Selected Areas in Communications
+  date: '2023-01-01'
+  link: https://doi.org/10.1109/jsac.2023.3345392
+
+- id: doi:10.1109/tc.2023.3251846
+  title: Blockchain-Based Fair and Fine-Grained Data Trading With Privacy Preservation
+  authors:
+  - Liang Xue
+  - Jianbing Ni
+  - Dongxiao Liu
+  - Xiaodong Lin
+  - Xuemin Shen
+  publisher: IEEE Transactions on Computers
+  date: '2023-01-01'
+  link: https://doi.org/10.1109/tc.2023.3251846
+
+- id: doi:10.1109/tifs.2023.3235152
+  title: Incentivizing Secure Edge Caching for Scalable Coded Videos in Heterogeneous
+    Networks
+  authors:
+  - Qichao Xu
+  - Zhou Su
+  - Jianbing Ni
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2023-01-01'
+  link: https://doi.org/10.1109/tifs.2023.3235152
+
+- id: doi:10.1109/tdsc.2022.3144991
+  title: Enabling Regulatory Compliance and Enforcement in Decentralized Anonymous
+    Payment
+  authors:
+  - Liang Xue
+  - Dongxiao Liu
+  - Jianbing Ni
+  - Xiaodong Lin
+  - Xuemin Sherman Shen
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/tdsc.2022.3144991
+
+- id: doi:10.1109/tdsc.2022.3204287
+  title: 'Astraea: Anonymous and Secure Auditing Based on Private Smart Contracts
+    for Donation Systems'
+  authors:
+  - Meng Li
+  - Yifei Chen
+  - Liehuang Zhu
+  - Zijian Zhang
+  - Jianbing Ni
+  - Chhagan Lal
+  - Mauro Conti
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/tdsc.2022.3204287
+
+- id: doi:10.1109/tmc.2021.3135301
+  title: Dual-Anonymous Off-Line Electronic Cash for Mobile Payment
+  authors:
+  - Jianbing Ni
+  - Man Ho Au
+  - Wei Wu
+  - Xiapu Luo
+  - Xiaodong Lin
+  - Xuemin Sherman Shen
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/tmc.2021.3135301
+
+- id: doi:10.1109/tifs.2022.3207911
+  title: Differentially Private Set Intersection for Asymmetrical ID Alignment
+  authors:
+  - Yuanyuan He
+  - Xinyu Tan
+  - Jianbing Ni
+  - Laurence T. Yang
+  - Xianjun Deng
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/tifs.2022.3207911
+
+- id: doi:10.1109/jsac.2022.3213341
+  title: 'FRUIT: A Blockchain-Based Efficient and Privacy-Preserving Quality-Aware
+    Incentive Scheme'
+  authors:
+  - Chuan Zhang
+  - Mingyang Zhao
+  - Liehuang Zhu
+  - Weiting Zhang
+  - Tong Wu
+  - Jianbing Ni
+  publisher: IEEE Journal on Selected Areas in Communications
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/jsac.2022.3213341
+
+- id: doi:10.1109/tits.2022.3204585
+  title: Digital Twin-Driven Vehicular Task Offloading and IRS Configuration in the
+    Internet of Vehicles
+  authors:
+  - Xiaoming Yuan
+  - Jiahui Chen
+  - Ning Zhang
+  - Jianbing Ni
+  - Fei Richard Yu
+  - Victor C. M. Leung
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/tits.2022.3204585
+
+- id: doi:10.1109/tvt.2021.3138702
+  title: Low-Complexity Phased-Array Physical Layer Security in Millimeter-Wave Communication
+    for Cybertwin-Driven V2X Applications
+  authors:
+  - Miao He
+  - Jianbing Ni
+  - Yuanyuan He
+  - Ning Zhang
+  publisher: IEEE Transactions on Vehicular Technology
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/tvt.2021.3138702
+
+- id: doi:10.1109/tdsc.2020.3036641
+  title: Identity-Based Provable Data Possession From RSA Assumption for Secure Cloud
+    Storage
+  authors:
+  - Jianbing Ni
+  - Kuan Zhang
+  - Yong Yu
+  - Tingting Yang
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/tdsc.2020.3036641
+
+- id: doi:10.1109/tits.2021.3136386
+  title: Differentially Private Tripartite Intelligent Matching Against Inference
+    Attacks in Ride-Sharing Services
+  authors:
+  - Yuanyuan He
+  - Jianbing Ni
+  - Laurence T. Yang
+  - Wei Wei
+  - Xianjun Deng
+  - Deqing Zou
+  - Syed Hassan Ahmed
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/tits.2021.3136386
+
+- id: doi:10.1109/jsac.2022.3196091
+  title: Blockchain-Based Credential Management for Anonymous Authentication in SAGVN
+  authors:
+  - Dongxiao Liu
+  - Huaqing Wu
+  - Cheng Huang
+  - Jianbing Ni
+  - Xuemin Shen
+  publisher: IEEE Journal on Selected Areas in Communications
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/jsac.2022.3196091
+
+- id: doi:10.1109/tc.2022.3150724
+  title: 'Blockchain-Cloud Transparent Data Marketing: Consortium Management and Fairness'
+  authors:
+  - Dongxiao Liu
+  - Cheng Huang
+  - Jianbing Ni
+  - Xiaodong Lin
+  - Xuemin Sherman Shen
+  publisher: IEEE Transactions on Computers
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/tc.2022.3150724
+
+- id: doi:10.1109/tmc.2021.3080714
+  title: Location Privacy-Preserving Task Recommendation With Geometric Range Query
+    in Mobile Crowdsensing
+  authors:
+  - Chuan Zhang
+  - Liehuang Zhu
+  - Chang Xu
+  - Jianbing Ni
+  - Cheng Huang
+  - Xuemin Shen
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/tmc.2021.3080714
+
+- id: doi:10.1109/tcc.2020.3010915
+  title: Fine-Grained Query Authorization With Integrity Verification Over Encrypted
+    Spatial Data in Cloud Storage
+  authors:
+  - Feng Tian
+  - Zhenqiang Wu
+  - Xiaolin Gui
+  - Jianbing Ni
+  - Xuemin Sherman Shen
+  publisher: IEEE Transactions on Cloud Computing
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/tcc.2020.3010915
+
+- id: doi:10.1109/tits.2022.3147354
+  title: Efficient and Anonymous Authentication With Succinct Multi-Subscription Credential
+    in SAGVN
+  authors:
+  - Dongxiao Liu
+  - Huaqing Wu
+  - Jianbing Ni
+  - Xuemin Shen
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/tits.2022.3147354
+
+- id: doi:10.36227/techrxiv.173948891.16122665/v1
+  title: 'RIS-Empowered Secured Space-Air-Ground Integrated Networks: Opportunities
+    and Challenges'
+  authors:
+  - Majid H. Khoshafa
+  - Felipe Bueno
+  - Telex M. N. Ngatched
+  - Marco Di Renzo
+  publisher: Unknown
+  date: '2021-01-01'
+  link: https://doi.org/10.36227/techrxiv.173948891.16122665/v1
+
+- id: doi:10.1109/mwc.001.2000329
+  title: 'Security and Privacy for Mobile Edge Caching: Challenges and Solutions'
+  authors:
+  - Jianbing Ni
+  - Kuan Zhang
+  - Athanasios V. Vasilakos
+  publisher: IEEE Wireless Communications
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/mwc.001.2000329
+
+- id: doi:10.1109/mcomstd.101.2000090
+  title: 'Adaptive and Dynamic Security in AI-Empowered 6G: From an Energy Efficiency
+    Perspective'
+  authors:
+  - Shuaiqi Shen
+  - Chong Yu
+  - Kuan Zhang
+  - Jianbing Ni
+  - Song Ci
+  publisher: IEEE Communications Standards Magazine
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/mcomstd.101.2000090
+
+- id: doi:10.1109/tnse.2020.3027796
+  title: Blockchain-Based Smart Advertising Network With Privacy-Preserving Accountability
+  authors:
+  - Dongxiao Liu
+  - Cheng Huang
+  - Jianbing Ni
+  - Xiaodong Lin
+  - Xuemin Shen
+  publisher: IEEE Transactions on Network Science and Engineering
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/tnse.2020.3027796
+
+- id: doi:10.1109/tc.2020.3020545
+  title: Practical and Secure SVM Classification for Cloud-Based Remote Clinical Decision
+    Services
+  authors:
+  - Jinwen Liang
+  - Zheng Qin
+  - Jianbing Ni
+  - Xiaodong Lin
+  - Xuemin Shen
+  publisher: IEEE Transactions on Computers
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/tc.2020.3020545
+
+- id: doi:10.1109/tcc.2019.2923222
+  title: Blockchain-Assisted Public-Key Encryption with Keyword Search Against Keyword
+    Guessing Attacks for Cloud Storage
+  authors:
+  - Yuan Zhang
+  - Chunxiang Xu
+  - Jianbing Ni
+  - Hongwei Li
+  - Xuemin Sherman Shen
+  publisher: IEEE Transactions on Cloud Computing
+  date: '2019-01-01'
+  link: https://doi.org/10.1109/tcc.2019.2923222
+  
+- id: doi:10.1109/tmc.2019.2908638
+  title: Enabling Strong Privacy Preservation and Accurate Task Allocation for Mobile
+    Crowdsensing
+  authors:
+  - Jianbing Ni
+  - Kuan Zhang
+  - Qi Xia
+  - Xiaodong Lin
+  - Xuemin Shen
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2019-01-01'
+  link: https://doi.org/10.1109/tmc.2019.2908638
+
+- id: doi:10.1109/tdsc.2020.3036641
+  title: Identity-Based Provable Data Possession From RSA Assumption for Secure Cloud
+    Storage
+  authors:
+  - Jianbing Ni
+  - Kuan Zhang
+  - Yong Yu
+  - Tingting Yang
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/tdsc.2020.3036641
+
+- id: doi:10.1109/tits.2021.3136386
+  title: Differentially Private Tripartite Intelligent Matching Against Inference
+    Attacks in Ride-Sharing Services
+  authors:
+  - Yuanyuan He
+  - Jianbing Ni
+  - Laurence T. Yang
+  - Wei Wei
+  - Xianjun Deng
+  - Deqing Zou
+  - Syed Hassan Ahmed
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/tits.2021.3136386
+
+- id: doi:10.1109/jsac.2022.3196091
+  title: Blockchain-Based Credential Management for Anonymous Authentication in SAGVN
+  authors:
+  - Dongxiao Liu
+  - Huaqing Wu
+  - Cheng Huang
+  - Jianbing Ni
+  - Xuemin Shen
+  publisher: IEEE Journal on Selected Areas in Communications
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/jsac.2022.3196091
+
+- id: doi:10.1109/tc.2022.3150724
+  title: 'Blockchain-Cloud Transparent Data Marketing: Consortium Management and Fairness'
+  authors:
+  - Dongxiao Liu
+  - Cheng Huang
+  - Jianbing Ni
+  - Xiaodong Lin
+  - Xuemin Sherman Shen
+  publisher: IEEE Transactions on Computers
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/tc.2022.3150724
+
+- id: doi:10.1109/tmc.2021.3080714
+  title: Location Privacy-Preserving Task Recommendation With Geometric Range Query
+    in Mobile Crowdsensing
+  authors:
+  - Chuan Zhang
+  - Liehuang Zhu
+  - Chang Xu
+  - Jianbing Ni
+  - Cheng Huang
+  - Xuemin Shen
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/tmc.2021.3080714
+- id: doi:10.1109/tcc.2020.3010915
+  title: Fine-Grained Query Authorization With Integrity Verification Over Encrypted
+    Spatial Data in Cloud Storage
+  authors:
+  - Feng Tian
+  - Zhenqiang Wu
+  - Xiaolin Gui
+  - Jianbing Ni
+  - Xuemin Sherman Shen
+  publisher: IEEE Transactions on Cloud Computing
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/tcc.2020.3010915
+- id: doi:10.1109/tits.2022.3147354
+  title: Efficient and Anonymous Authentication With Succinct Multi-Subscription Credential
+    in SAGVN
+  authors:
+  - Dongxiao Liu
+  - Huaqing Wu
+  - Jianbing Ni
+  - Xuemin Shen
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/tits.2022.3147354
+
+- id: doi:10.1109/mwc.001.2000329
+  title: 'Security and Privacy for Mobile Edge Caching: Challenges and Solutions'
+  authors:
+  - Jianbing Ni
+  - Kuan Zhang
+  - Athanasios V. Vasilakos
+  publisher: IEEE Wireless Communications
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/mwc.001.2000329
+
+- id: doi:10.1109/mcomstd.101.2000090
+  title: 'Adaptive and Dynamic Security in AI-Empowered 6G: From an Energy Efficiency
+    Perspective'
+  authors:
+  - Shuaiqi Shen
+  - Chong Yu
+  - Kuan Zhang
+  - Jianbing Ni
+  - Song Ci
+  publisher: IEEE Communications Standards Magazine
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/mcomstd.101.2000090
+
+- id: doi:10.1109/tnse.2020.3027796
+  title: Blockchain-Based Smart Advertising Network With Privacy-Preserving Accountability
+  authors:
+  - Dongxiao Liu
+  - Cheng Huang
+  - Jianbing Ni
+  - Xiaodong Lin
+  - Xuemin Shen
+  publisher: IEEE Transactions on Network Science and Engineering
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/tnse.2020.3027796
+
+- id: doi:10.1109/tc.2020.3020545
+  title: Practical and Secure SVM Classification for Cloud-Based Remote Clinical Decision
+    Services
+  authors:
+  - Jinwen Liang
+  - Zheng Qin
+  - Jianbing Ni
+  - Xiaodong Lin
+  - Xuemin Shen
+  publisher: IEEE Transactions on Computers
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/tc.2020.3020545
+
+- id: doi:10.1109/tcc.2019.2923222
+  title: Blockchain-Assisted Public-Key Encryption with Keyword Search Against Keyword
+    Guessing Attacks for Cloud Storage
+  authors:
+  - Yuan Zhang
+  - Chunxiang Xu
+  - Jianbing Ni
+  - Hongwei Li
+  - Xuemin Sherman Shen
+  publisher: IEEE Transactions on Cloud Computing
+  date: '2019-01-01'
+  link: https://doi.org/10.1109/tcc.2019.2923222
+
+- id: doi:10.1109/tmc.2019.2908638
+  title: Enabling Strong Privacy Preservation and Accurate Task Allocation for Mobile
+    Crowdsensing
+  authors:
+  - Jianbing Ni
+  - Kuan Zhang
+  - Qi Xia
+  - Xiaodong Lin
+  - Xuemin Shen
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2019-01-01'
+  link: https://doi.org/10.1109/tmc.2019.2908638
+
+- id: doi:10.1109/globecom48099.2022.10000715
+  title: >-
+    Secure and Distributed Access Control for Dynamic Pervasive Edge Computing Services
+  authors:
+  - Lingshuang Liu
+  - Cheng Huang
+  - Dan Zhu
+  - Dongxiao Liu
+  - Jianbing Ni
+  - Xuemin Sherman Shen
+  publisher: GLOBECOM 2022 - 2022 IEEE Global Communications Conference
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/globecom48099.2022.10000715
+
+- id: doi:10.1109/icaiic64266.2025.10920873
+  title: >-
+    Defending Against High-Intensity Adversarial Perturbations in Deep Neural Networks:
+    A Robust Swin Transformer Approach
+  authors:
+  - Quang Le
+  - Francois Chan
+  - Jianbing Ni
+  - Scott Yam
+  - Ning Lu
+  publisher: >-
+    2025 International Conference on Artificial Intelligence in Information and Communication
+    (ICAIIC)
+  date: '2025-01-01'
+  link: https://doi.org/10.1109/icaiic64266.2025.10920873
+  
+- id: doi:10.1109/globecom52923.2024.10901101
+  title: >-
+    Accelerating Secure and Verifiable Data Deletion in Cloud Storage via SGX and
+    Blockchain
+  authors:
+  - Xiangman Li
+  - Xiaodong Wu
+  - Jianbing Ni
+  publisher: GLOBECOM 2024 - 2024 IEEE Global Communications Conference
+  date: '2024-01-01'
+  link: https://doi.org/10.1109/globecom52923.2024.10901101
+- id: doi:10.1109/vtc2024-spring62846.2024.10683685
+  title: >-
+    Leveraging Group Secret Sharing Technology for FD-RAN: A Lightweight AKA Mechanism
+  authors:
+  - Ning Wang
+  - Jiacheng Chen
+  - Jianbing Ni
+  - Liquan Chen
+  - Haibo Zhou
+  publisher: >-
+    2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring)
+  date: '2024-01-01'
+  link: https://doi.org/10.1109/vtc2024-spring62846.2024.10683685
+- id: doi:10.1109/iccc57788.2023.10233451
+  title: >-
+    Secure and Privacy-preserving Network Slicing in 3GPP 5G System Architecture
+  authors:
+  - Xiangman Li
+  - Miao He
+  - Jianbing Ni
+  publisher: >-
+    2023 IEEE/CIC International Conference on Communications in China (ICCC)
+  date: '2023-01-01'
+  link: https://doi.org/10.1109/iccc57788.2023.10233451
+- id: doi:10.1109/iccc57788.2023.10233295
+  title: >-
+    Privacy-Preserving Model Aggregation for Asynchronous Federated Learning
+  authors:
+  - Jianxiang Zhao
+  - Xiangman Li
+  - Jianbing Ni
+  publisher: >-
+    2023 IEEE/CIC International Conference on Communications in China (ICCC)
+  date: '2023-01-01'
+  link: https://doi.org/10.1109/iccc57788.2023.10233295
+- id: doi:10.1109/icccworkshops57813.2023.10233710
+  title: >-
+    Online Convex Optimization for Dynamic RAN Slicing with Quality of Service
+  authors:
+  - Kasra Khalafi
+  - Jianbing Ni
+  - Ning Lu
+  publisher: >-
+    2023 IEEE/CIC International Conference on Communications in China (ICCC Workshops)
+  date: '2023-01-01'
+  link: https://doi.org/10.1109/icccworkshops57813.2023.10233710
+- id: doi:10.1109/pst58708.2023.10320165
+  title: >-
+    Verifiable and Privacy-Preserving Ad Exchange for Smart Targeted Advertising
+  authors:
+  - Brennan Mosher
+  - Xiangman Li
+  - Yuanyuan He
+  - Jianbing Ni
+  publisher: >-
+    2023 20th Annual International Conference on Privacy, Security and Trust (PST)
+  date: '2023-01-01'
+  link: https://doi.org/10.1109/pst58708.2023.10320165
+- id: doi:10.1109/icc45041.2023.10279082
+  title: >-
+    PAEEA: Privacy-Preserving Online Ad Exchange with Efficient Auction for Smart
+    Advertising
+  authors:
+  - Brennan Mosher
+  - Jianbing Ni
+  publisher: ICC 2023 - IEEE International Conference on Communications
+  date: '2023-01-01'
+  link: https://doi.org/10.1109/icc45041.2023.10279082
+- id: doi:10.1109/icc45855.2022.9839154
+  title: >-
+    AT-CBDC: Achieving Anonymity and Traceability in Central Bank Digital Currency
+  authors:
+  - Yunke Liu
+  - Jianbing Ni
+  - Mohammad Zulkernine
+  publisher: ICC 2022 - IEEE International Conference on Communications
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/icc45855.2022.9839154
+- id: doi:10.1109/hpcc-dss-smartcity-dependsys57074.2022.00102
+  title: >-
+    Ordinal Data Stream Collection with Condensed Local Differential Privacy
+  authors:
+  - Yuanyuan He
+  - Fayao Wang
+  - Xianjun Deng
+  - Jianbing Ni
+  - Jun Feng
+  - Shenghao Liu
+  publisher: >-
+    2022 IEEE 24th Int Conf on High Performance Computing &amp; Communications; 8th
+    Int Conf on Data Science &amp; Systems; 20th Int Conf on Smart City; 8th Int Conf
+    on Dependability in Sensor, Cloud &amp; Big Data Systems &amp; Application (HPCC/DSS/SmartCity/DependSys)
+  date: '2022-01-01'
+  link: >-
+    https://doi.org/10.1109/hpcc-dss-smartcity-dependsys57074.2022.00102
+    
+- id: doi:10.1109/icc45855.2022.9838995
+  title: >-
+    Securing E-Petition: A Privacy-Preserving Fine-Grained Electronic Petition System
+    for Health and Political Petitions
+  authors:
+  - Xiangman Li
+  - Yunke Liu
+  - Jianbing Ni
+  - Yuanyuan He
+  publisher: ICC 2022 - IEEE International Conference on Communications
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/icc45855.2022.9838995
+
+- id: doi:10.1109/globecom48099.2022.10000793
+  title: >-
+    Personalized Privacy-Preserving Federated Learning: Optimized Trade-off Between
+    Utility and Privacy
+  authors:
+  - Jinhao Zhou
+  - Zhou Su
+  - Jianbing Ni
+  - Yuntao Wang
+  - Yanghe Pan
+  - Rui Xing
+  publisher: GLOBECOM 2022 - 2022 IEEE Global Communications Conference
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/globecom48099.2022.10000793
+
+- id: doi:10.1109/icc45855.2022.9838536
+  title: >-
+    Crafting Text Adversarial Examples to Attack the Deep-Learning-based Malicious
+    URL Detection
+  authors:
+  - Zuquan Peng
+  - Yuanyuan He
+  - Zhe Sun
+  - Jianbing Ni
+  - Ben Niu
+  - Xianjun Deng
+  publisher: ICC 2022 - IEEE International Conference on Communications
+  date: '2022-01-01'
+  link: https://doi.org/10.1109/icc45855.2022.9838536
+- id: doi:10.1109/pst52912.2021.9647772
+  title: >-
+    Balancing Efficiency and Security for Network Access Control in Space-Air-Ground
+    Integrated Networks
+  authors:
+  - Miao He
+  - Xiangman Li
+  - Jianbing Ni
+  - Haomiao Yang
+  publisher: >-
+    2021 18th International Conference on Privacy, Security and Trust (PST)
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/pst52912.2021.9647772
+- id: doi:10.1109/globecom46510.2021.9685079
+  title: >-
+    FL-PATE: Differentially Private Federated Learning with Knowledge Transfer
+  authors:
+  - Yanghe Pan
+  - Jianbing Ni
+  - Zhou Su
+  publisher: 2021 IEEE Global Communications Conference (GLOBECOM)
+  date: '2021-01-01'
+  link: https://doi.org/10.1109/globecom46510.2021.9685079
+- id: doi:10.1109/iccc49849.2020.9238921
+  title: >-
+    Private, Fair, and Verifiable Aggregate Statistics for Mobile Crowdsensing in
+    Blockchain Era
+  authors:
+  - Miao He
+  - Jianbing Ni
+  - Dongxiao Liu
+  - Haomiao Yang
+  - Xuemin Shen
+  publisher: >-
+    2020 IEEE/CIC International Conference on Communications in China (ICCC)
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/iccc49849.2020.9238921
+- id: doi:10.1109/globecom42002.2020.9322483
+  title: >-
+    Efficient and Privacy-Preserving Non-Interactive Truth Discovery for Mobile Crowdsensing
+  authors:
+  - Chuan Zhang
+  - Liehuang Zhu
+  - Chang Xu
+  - Jianbing Ni
+  - Cheng Huang
+  - Xuemin Sherman Shen
+  publisher: GLOBECOM 2020 - 2020 IEEE Global Communications Conference
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/globecom42002.2020.9322483
+- id: doi:10.1109/icc40277.2020.9149181
+  title: Consent-based Privacy-preserving Decision Tree Evaluation
+  authors:
+  - Liang Xue
+  - Dongxiao Liu
+  - Jianbing Ni
+  - Xiaodong Lin
+  - Xuemin Sherman Shen
+  publisher: >-
+    ICC 2020 - 2020 IEEE International Conference on Communications (ICC)
+  date: '2020-01-01'
+  link: https://doi.org/10.1109/icc40277.2020.9149181
+- id: doi:10.1109/icc.2019.8761769
+  title: >-
+    Towards Private and Efficient Ad Impression Aggregation in Mobile Advertising
+  authors:
+  - Dongxiao Liu
+  - Jianbing Ni
+  - Xiaodong Lin
+  - Xuemin Shen
+  publisher: >-
+    ICC 2019 - 2019 IEEE International Conference on Communications (ICC)
+  date: '2019-01-01'
+  link: https://doi.org/10.1109/icc.2019.8761769
+- id: doi:10.1109/icc.2019.8761762
+  title: Online Advertising with Verifiable Fairness
+  authors:
+  - Cheng Huang
+  - Jianbing Ni
+  - Rongxing Lu
+  - Xuemin Sherman Shen
+  publisher: >-
+    ICC 2019 - 2019 IEEE International Conference on Communications (ICC)
+  date: '2019-01-01'
+  link: https://doi.org/10.1109/icc.2019.8761762
