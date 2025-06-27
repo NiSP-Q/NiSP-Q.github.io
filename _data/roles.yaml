@@ -30,6 +30,10 @@ phd_3:
   icon: fas fa-graduation-cap
   text: PhD Student
 
+phd_4:
+  icon: fas fa-graduation-cap
+  text: PhD Student
+
 MASc_1:
   icon: fas fa-book-reader
   text: MASc Student

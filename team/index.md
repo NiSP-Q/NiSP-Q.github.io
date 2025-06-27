@@ -45,6 +45,12 @@ nav:
   component="portrait"
   filters="role: phd_3"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd_4"
+%}
 
 <hr style="margin: 2em 0;">
 {%
@@ -82,6 +88,12 @@ nav:
   data="members"
   component="portrait"
   filters="role: phd"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: master"
 %}
 {% include section.html %}
 
